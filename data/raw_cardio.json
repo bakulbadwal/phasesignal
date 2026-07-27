@@ -3,28 +3,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT04600089",
-          "briefTitle": "Ketamine in Patients Undergoing TEVAR Procedures Receiving NCI"
+          "nctId": "NCT07415655",
+          "briefTitle": "Modulation of Cerebral Ischemia by Albumin"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2020-12-08"
+            "date": "2026-02-03"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-08"
+            "date": "2027-02-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Sam Tyagi"
+            "name": "University Hospital Hradec Kralove"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Descending Aortic Dissection",
-            "Postoperative Pain",
-            "Thoracoabdominal Aortic Aneurysm"
+            "Ischemic Stroke"
           ]
         },
         "designModule": {
@@ -33,7 +31,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 30
+            "count": 100
           }
         }
       }
@@ -41,30 +39,75 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05288790",
-          "briefTitle": "Microbiome Metabolites and Alcohol in HIV to Reduce CVD RCT"
+          "nctId": "NCT06904066",
+          "briefTitle": "Autologous T Cells Transduced With Retroviral Vectors Expressing TCRs for Participant-specific Neoantigens in Patients With Hematologic Malignancies"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2023-09-18"
+            "date": "2026-07-29"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-08-28"
+            "date": "2029-04-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Vanderbilt University Medical Center"
+            "name": "National Cancer Institute (NCI)"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Microtia",
-            "Dysbiosis",
-            "Alcohol Drinking",
-            "HIV Infections",
-            "Cardiovascular Diseases"
+            "Malignancy, Hematologic",
+            "Neoplasms, Hematologic",
+            "Neoplasms, Hematopoietic",
+            "Blood Cancer",
+            "Hematological Neoplasms",
+            "Hematopoietic Malignancies",
+            "Dysmyelopoietic Syndromes",
+            "Hematopoetic Myelodysplasia",
+            "Myeloid Leukemia, Acute",
+            "Nonlymphoblastic Leukemia, Acute",
+            "Leukemia, Lymphocytic, Acute"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 86
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06657924",
+          "briefTitle": "Preoperative Tranexamic Acid (TXA) to Prevent Bleeding in Patients Undergoing Major Colorectal Surgery"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-02-11"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-09-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Kristen Ban"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Bleeding",
+            "Colorectal Disorders",
+            "Thromboembolism",
+            "Tranexamic Acid"
           ]
         },
         "designModule": {
@@ -73,7 +116,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 250
+            "count": 394
           }
         }
       }
@@ -81,26 +124,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06832722",
-          "briefTitle": "Invobenitug Also Known as Procizumab (PCZ; AK1967) in Critical Cardiovascular Care"
+          "nctId": "NCT07388277",
+          "briefTitle": "CC-97540 in Patients With Antineutrophil Cytoplasmic Antibody-associated Vasculitis"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-07-13"
+            "date": "2026-07-09"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-12-30"
+            "date": "2028-12-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "4TEEN4 Pharmaceuticals GmbH"
+            "name": "Marcela V. Maus, M.D.,Ph.D."
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Shock, Cardiogenic"
+            "Antineutrophil Cytoplasmic Antibody-associated Vasculitis"
           ]
         },
         "designModule": {
@@ -110,191 +153,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 90
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05257629",
-          "briefTitle": "Aggressive Smoking Cessation Trial (ASAP)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-02-02"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-03-07"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Sir Mortimer B. Davis - Jewish General Hospital"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Acute Coronary Syndrome",
-            "Cardiovascular Diseases"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 798
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06768489",
-          "briefTitle": "A Study of JNJ-79635322 in Combination With Daratumumab With or Without Lenalidomide or in Combination With Pomalidomide for Multiple Myeloma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-12-04"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2029-01-02"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Janssen Research & Development, LLC"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Multiple Myeloma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 240
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06612359",
-          "briefTitle": "Impact of the BOOST GAIT Program on Gait Recovery and Functional Mobility After Stroke"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-09-02"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2024-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Hasselt University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Stroke with Hemiparesis",
-            "Stroke"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
             "count": 12
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05192122",
-          "briefTitle": "Free From Maintenance Drug Therapy in Multiple Myeloma (The FREEDMM Trial) for Minimal Residual Disease (MRD"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2021-12-31"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2029-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Illinois at Chicago"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Multiple Myeloma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 50
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07282041",
-          "briefTitle": "Role of GLP1 RA Dulaglutide on Severe Intracranial Atherosclerosis"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-12-17"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2030-12-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "National University of Singapore"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Intracranial Atherosclerosis",
-            "Stroke, Ischemic"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2",
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 130
           }
         }
       }
@@ -338,27 +197,99 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05199194",
-          "briefTitle": "Randomization to Endovascular Treatment Alone or Preceded by Systemic Thrombolysis With Tenecteplase in Ischemic Stroke"
+          "nctId": "NCT06235229",
+          "briefTitle": "A Study of GC012F in Patients With Relapsed/Refractory Multiple Myeloma"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2022-05-27"
+            "date": "2023-12-26"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-07"
+            "date": "2026-03-02"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Hospital Moinhos de Vento"
+            "name": "Gracell Biotechnologies (Shanghai) Co., Ltd."
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Stroke, Ischemic",
-            "Stroke, Acute"
+            "Multiple Myeloma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 110
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05914662",
+          "briefTitle": "Zanubrutinib Plus BR in Newly Diagnosed Symptomatic WM"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-02-15"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2025-03-15"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Institute of Hematology & Blood Diseases Hospital, China"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Waldenstrom Macroglobulinemia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 42
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05561387",
+          "briefTitle": "Comparing Combinations of Drugs to Treat Newly Diagnosed Multiple Myeloma (NDMM) When a Stem Cell Transplant is Not a Medically Suitable Treatment"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-10-12"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2031-05-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "SWOG Cancer Research Network"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plasma Cell Myeloma"
           ]
         },
         "designModule": {
@@ -367,11 +298,87 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 398
+            "count": 510
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07032129",
+          "briefTitle": "Sequential CAR-T Cells Targeting BCMA/GPRC5D in Patients With Relapsed/ Refractory Multiple Myeloma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-04-29"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-12-10"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Essen Biotech"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Multiple Myeloma",
+            "Multiple Myeloma in Relapse",
+            "Multiple Myeloma Progression",
+            "Multiple Myeloma, Refractory"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 60
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06934044",
+          "briefTitle": "A Study Evaluating the Pharmacokinetics, Safety, and Efficacy of Cevostamab in Chinese Participants With Relapsed or Refractory Multiple Myeloma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-05-13"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-11-15"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Hoffmann-La Roche"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Multiple Myeloma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 20
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lp3U8mh5unumpOQJJxubfGh2fg"
+  "nextPageToken": "ZVdj7o2Elu8o3lp3Rcmm4KrumpOQJJxsbPSn2fg"
 }
