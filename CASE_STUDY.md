@@ -1,7 +1,7 @@
 # Case Study — Clinical Trial Screener (PhaseSignal)
 ### A product-thinking write-up (not a README). To run it, see [README](./README.md) / [SCOPE.md](./SCOPE.md); this is the *why*.
 
-A transparent, live-data tool that scores a clinical trial's probability of success against published base rates — every score showing exactly which factor moved it. Live at [bakulbadwal.github.io/clinicaltrial-screener](https://bakulbadwal.github.io/clinicaltrial-screener/).
+A transparent, live-data tool that scores a clinical trial's probability of success against published base rates — every score showing exactly which factor moved it. Live at [bakulbadwal.github.io/phasesignal](https://bakulbadwal.github.io/phasesignal/).
 
 ---
 
