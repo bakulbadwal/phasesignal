@@ -3,28 +3,248 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05231798",
-          "briefTitle": "Cholinergic Integrity in Down Syndrome in Association With Aging, Alzheimer's Disease Pathology, and Cognition"
+          "nctId": "NCT04500847",
+          "briefTitle": "Repurposing Nucleoside Reverse Transcriptase Inhibitors for Treatment of AD"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2021-08-19"
+            "date": "2021-12-17"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-04-30"
+            "date": "2026-03-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Vanderbilt University Medical Center"
+            "name": "Butler Hospital"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease, Early Onset",
+            "Mild Cognitive Impairment",
+            "Moderate Dementia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 35
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05641688",
+          "briefTitle": "[18F]PI-2620 Phase 3 Histopathological Study"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-12-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-06"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Lantheus Biosciences Ltd."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 200
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06945614",
+          "briefTitle": "Exploratory Clinical Study to Assess Safety and Efficacy of Xenon Gas Inhalation to Control Neuroinflammation"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-04-16"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2025-12-31"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "General Biophysics LLC"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Volunteer Study"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 16
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06619613",
+          "briefTitle": "A Study of CM383 in Patients With Alzheimer's Disease Related Mild Cognitive Impairment and Mild Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-11-08"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Keymed Biosciences Co.Ltd"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 48
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04661280",
+          "briefTitle": "Donepezil Versus Non-drug Treatment in Alzheimer's Disease."
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-02-10"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-08"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Assistance Publique - H\u00f4pitaux de Paris"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease, Early Onset"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 240
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04390646",
+          "briefTitle": "GnRH Therapy on Cognition in Down Syndrome"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2020-08-27"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Nelly Pitteloud"
           }
         },
         "conditionsModule": {
           "conditions": [
             "Down Syndrome",
-            "Down Syndrome, Partial Trisomy 21",
-            "Alzheimer Disease"
+            "Cognitive Decline",
+            "Alzheimer Disease, Early Onset",
+            "Olfaction Disorders"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 56
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06745583",
+          "briefTitle": "A Phase 2 Study to Assess the Safety of EI-1071 and the Effects of EI-1071 on Neuroinflammation in Alzheimer's Disease Patients"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-12-16"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Elixiron Immunotherapeutics Inc."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Mild, Moderate, or Severe Alzheimer's Disease"
           ]
         },
         "designModule": {
@@ -33,7 +253,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 30
+            "count": 15
           }
         }
       }
@@ -41,26 +261,27 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07651319",
-          "briefTitle": "Interleukine-2 (IL-2) Plus Semaglutide in Alzheimer's Disease"
+          "nctId": "NCT02649985",
+          "briefTitle": "PET Brain Imaging in Multiple Sclerosis, Alzheimer's Disease, and Other Neurological and Neuropsychiatric Diseases"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-07"
+            "date": "2016-05-02"
           },
           "primaryCompletionDateStruct": {
-            "date": "2029-06"
+            "date": "2027-12-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "The Methodist Hospital Research Institute"
+            "name": "Brigham and Women's Hospital"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Alzheimer Dementia (AD)"
+            "Multiple Sclerosis",
+            "Alzheimer's Disease"
           ]
         },
         "designModule": {
@@ -70,230 +291,11 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 30
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07033494",
-          "briefTitle": "A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-07-16"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2029-04-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Merck Sharp & Dohme LLC"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Early Alzheimer's Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 340
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT04902703",
-          "briefTitle": "Phase II Trial to Evaluate Safety and Efficacy of GM-CSF/Sargramostim in Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2022-06-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-11-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Colorado, Denver"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 42
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05282550",
-          "briefTitle": "Targeting Cognition in Early Alzheimer's Disease by Improving Sleep With Trazodone"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-02-02"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-07-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Johns Hopkins University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "AMCI - Amnestic Mild Cognitive Impairment",
-            "Sleep Disturbance"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 100
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07142954",
-          "briefTitle": "Epidemiology and Biomarker Study in Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-08-25"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2033-07"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Eli Lilly and Company"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 3400
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07422857",
-          "briefTitle": "Evaluate the Use of [18F]-APN-1607 PET in Subjects With AD-related Cognitive Impairment and Subjects With Normal Cognitive Function"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-01-22"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "JYAMS PET Research & Development Limited"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Subjects With Mild Cognitive Impairment (MCI) of AD, Alzheimer's Disease (AD) Dementia"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 316
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05336695",
-          "briefTitle": "Assess Fibrin in Brains With AD/ADRD"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2022-03-29"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-09-28"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Massachusetts General Hospital"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease",
-            "Dementia of Alzheimer Type"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1",
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 30
+            "count": 250
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVdj7o2Elu8o3lp3Rcmm4KrumpOQJJxuYvGl2PYW"
+  "nextPageToken": "ZVdj7o2Elu8o3lp2BMm74q2tmpOQJJxuZ_Gn1PQW"
 }
