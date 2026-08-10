@@ -3,46 +3,8 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT04500847",
-          "briefTitle": "Repurposing Nucleoside Reverse Transcriptase Inhibitors for Treatment of AD"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2021-12-17"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-03-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Butler Hospital"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease, Early Onset",
-            "Mild Cognitive Impairment",
-            "Moderate Dementia"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 35
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05641688",
-          "briefTitle": "[18F]PI-2620 Phase 3 Histopathological Study"
+          "nctId": "NCT05591027",
+          "briefTitle": "Safety and Target Engagement of Centella Asiatica in Cognitive Impairment"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
@@ -50,89 +12,18 @@
             "date": "2022-12-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-06"
+            "date": "2025-11-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Lantheus Biosciences Ltd."
+            "name": "Oregon Health and Science University"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Alzheimer Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 200
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06945614",
-          "briefTitle": "Exploratory Clinical Study to Assess Safety and Efficacy of Xenon Gas Inhalation to Control Neuroinflammation"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-04-16"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2025-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "General Biophysics LLC"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Healthy Volunteer Study"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 16
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06619613",
-          "briefTitle": "A Study of CM383 in Patients With Alzheimer's Disease Related Mild Cognitive Impairment and Mild Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-11-08"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Keymed Biosciences Co.Ltd"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease"
+            "Mild Cognitive Impairment",
+            "Alzheimer's Disease"
           ]
         },
         "designModule": {
@@ -149,139 +40,29 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT04661280",
-          "briefTitle": "Donepezil Versus Non-drug Treatment in Alzheimer's Disease."
+          "nctId": "NCT05395624",
+          "briefTitle": "Safety, PK and Biodistribution of 18F-OP-801 in Patients With ALS, AD, MS, PD and Healthy Volunteers"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2022-02-10"
+            "date": "2023-02-02"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-08"
+            "date": "2026-01-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Assistance Publique - H\u00f4pitaux de Paris"
+            "name": "Ashvattha Therapeutics, Inc."
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Alzheimer Disease, Early Onset"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 240
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT04390646",
-          "briefTitle": "GnRH Therapy on Cognition in Down Syndrome"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2020-08-27"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-12"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Nelly Pitteloud"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Down Syndrome",
-            "Cognitive Decline",
-            "Alzheimer Disease, Early Onset",
-            "Olfaction Disorders"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2",
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 56
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06745583",
-          "briefTitle": "A Phase 2 Study to Assess the Safety of EI-1071 and the Effects of EI-1071 on Neuroinflammation in Alzheimer's Disease Patients"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-12-16"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Elixiron Immunotherapeutics Inc."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Mild, Moderate, or Severe Alzheimer's Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 15
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT02649985",
-          "briefTitle": "PET Brain Imaging in Multiple Sclerosis, Alzheimer's Disease, and Other Neurological and Neuropsychiatric Diseases"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2016-05-02"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Brigham and Women's Hospital"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Multiple Sclerosis",
-            "Alzheimer's Disease"
+            "Amyotrophic Lateral Sclerosis (ALS)",
+            "Parkinson Disease (PD)",
+            "Alzheimer Disease (AD)",
+            "Multiple Sclerosis (MS)"
           ]
         },
         "designModule": {
@@ -291,11 +72,239 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 250
+            "count": 65
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05282550",
+          "briefTitle": "Targeting Cognition in Early Alzheimer's Disease by Improving Sleep With Trazodone"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-02-02"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-07-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Johns Hopkins University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "AMCI - Amnestic Mild Cognitive Impairment",
+            "Sleep Disturbance"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 100
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05446584",
+          "briefTitle": "Pathways Relating Amnestic MCI to a Mild Traumatic Brain Injury History"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-04-20"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-05-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Texas Southwestern Medical Center"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Mild Cognitive Impairment",
+            "Amnestic Mild Cognitive Disorder",
+            "Amnestic Mild Cognitive Impairment",
+            "Mild Traumatic Brain Injury",
+            "Concussion, Brain"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 75
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05231798",
+          "briefTitle": "Cholinergic Integrity in Down Syndrome in Association With Aging, Alzheimer's Disease Pathology, and Cognition"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-08-19"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-04-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Vanderbilt University Medical Center"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Down Syndrome",
+            "Down Syndrome, Partial Trisomy 21",
+            "Alzheimer Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 30
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06585384",
+          "briefTitle": "Safety of a Strategy Combining Etanercept Administration With Repeated Contrast Ultrasound in Patients With Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-04-15"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-06"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Fondation Ophtalmologique Adolphe de Rothschild"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 5
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06372821",
+          "briefTitle": "A Trial Evaluating the Effect of NIO752 on Tau Synthesis Measured by a Process Known as SILK"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-11-18"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-07"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University College, London"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease",
+            "Autosomal Dominant Alzheimer Disease Due to Mutation of Presenilin 1 (Disorder)",
+            "Autosomal Dominant Alzheimer Disease Due to Mutation of Presenilin 2 (Disorder)",
+            "Autosomal Dominant Alzheimer Disease Due to Mutation of Amyloid Precursor Protein (Disorder)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 10
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06072963",
+          "briefTitle": "COMMETS- Combination MCI Metabolic Syndrome"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-01-30"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-12-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Rutgers, The State University of New Jersey"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease",
+            "Mild Cognitive Impairment",
+            "Metabolic Syndrome"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 80
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVdj7o2Elu8o3lp2BMm74q2tmpOQJJxuZ_Gn1PQW"
+  "nextPageToken": "ZVdj7o2Elu8o3lp2Vcm44unumpOQJJxubPOh1fQW"
 }

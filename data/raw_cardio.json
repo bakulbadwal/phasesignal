@@ -3,21 +3,57 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06979375",
-          "briefTitle": "A Research Study Comparing CDR132L With Placebo on the Structure and Function of the Heart in People With Heart Failure With Reduced/Mildly Reduced Ejection Fraction and Left Ventricular Hypertrophy"
+          "nctId": "NCT05020236",
+          "briefTitle": "A Study to Learn About the Study Medicine Elranatamab Alone and With Daratumumab in People With Multiple Myeloma Who Have Received Other Treatments"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-06-30"
+            "date": "2021-10-04"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-05-16"
+            "date": "2026-04-27"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Novo Nordisk A/S"
+            "name": "Pfizer"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Multiple Myeloma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 944
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07687186",
+          "briefTitle": "Qishen Yiqi Dripping Pills in Treatment of Chronic Heart FailUre"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-06-22"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-06-22"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Tasly Pharmaceutical Group Co., Ltd"
           }
         },
         "conditionsModule": {
@@ -28,10 +64,10 @@
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE2"
+            "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 200
+            "count": 636
           }
         }
       }
@@ -39,86 +75,13 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06802081",
-          "briefTitle": "TIRzepatide for the Treatment of Obesity in Patients With Atrial Fibrillation"
+          "nctId": "NCT07371624",
+          "briefTitle": "A Study of the Safety, Tolerability and Preliminary Efficacy of B2065 in Patients With Acute Ischemic Stroke."
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-04-08"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "The Cleveland Clinic"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Atrial Fibrillation",
-            "Obesity"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 100
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05292209",
-          "briefTitle": "RiLuzole to Reduce Atrial FIb Study Using Holter Monitoring"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2022-06-15"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2024-10-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Utah"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Atrial Fibrillation Paroxysmal"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 78
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07138209",
-          "briefTitle": "A Study Comparing QLS32015 Monotherapy Versus Pomalidomide, Dexamethasone (Pd) or Selinexor, Dexamethasone (Sd) in Participants With Relapsed or Refractory Multiple Myeloma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-11-07"
+            "date": "2025-12-31"
           },
           "primaryCompletionDateStruct": {
             "date": "2027-12"
@@ -126,162 +89,7 @@
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Qilu Pharmaceutical Co., Ltd."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Relapsed or Refractory Multiple Myeloma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 228
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06203977",
-          "briefTitle": "Inflammation REduction to Prevent cArdiovascular Injury in Renal Disease (REPAIR)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-11-15"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-05-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Hamilton Health Sciences Corporation"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Chronic Kidney Diseases",
-            "Renal Failure"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 200
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT04433572",
-          "briefTitle": "Temsirolimus Adventitial Delivery to Improve ANGioplasty and/or Atherectomy Revascularization Outcomes Below the Knee"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-07-30"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-02-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Mercator MedSystems, Inc."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Peripheral Artery Disease",
-            "Critical Limb Ischemia"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 250
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT03852407",
-          "briefTitle": "Allogeneic Hematopoietic Cell Transplantation From HLA-matched Donor After Flu-Mel-PTCy Versus Flu-Mel-ATG Reduced-intensity Conditioning"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2019-02-04"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2033-11-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Liege"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Acute Myeloid Leukemia in Remission",
-            "Myelodysplastic Syndromes",
-            "Chronic Myeloid Leukemia in Remission",
-            "Myeloproliferative Syndrome",
-            "Myeloproliferative Disorder",
-            "Acute Lymphoid Leukemia in Remission",
-            "Multiple Myeloma",
-            "Chronic Lymphoid Leukemia",
-            "Non Hodgkin Lymphoma",
-            "Hodgkin Lymphoma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 114
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07137832",
-          "briefTitle": "OPtimizing REperfusion by Intra-Arterial ThRomboLysis as Adjunct to Endovascular Treatment for Medium Vessel Occlusion"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-10-09"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University"
+            "name": "Tasly Pharmaceutical Group Co., Ltd"
           }
         },
         "conditionsModule": {
@@ -292,10 +100,11 @@
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE3"
+            "PHASE1",
+            "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 530
+            "count": 54
           }
         }
       }
@@ -303,37 +112,35 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05651932",
-          "briefTitle": "A Study of an MMSET Inhibitor in Patients With Relapsed and Refractory Multiple Myeloma"
+          "nctId": "NCT06024746",
+          "briefTitle": "A Study to Determine the Efficacy and Safety of Finerenone and SGLT2i in Combination in Hospitalized Patients With Heart Failure (CONFIRMATION-HF)"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2023-02-22"
+            "date": "2024-07-09"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-12-31"
+            "date": "2027-11"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "K36 Therapeutics, Inc."
+            "name": "Colorado Prevention Center"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Multiple Myeloma",
-            "Myeloma",
-            "Myeloma Multiple"
+            "Heart Failure"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE1"
+            "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 165
+            "count": 1500
           }
         }
       }
@@ -341,26 +148,134 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06940011",
-          "briefTitle": "Endocalyx in Treatment Resistent Hypertension"
+          "nctId": "NCT07227246",
+          "briefTitle": "Recombinant Factor VIIa (rFVIIa) for Hemorrhagic Stroke Trial - Part 2"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-01-21"
+            "date": "2025-05-06"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-12-01"
+            "date": "2029-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)"
+            "name": "Joseph Broderick, MD"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Treatment Resistant Hypertension"
+            "Intracerebral Hemorrhage"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 350
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07297329",
+          "briefTitle": "A Study to Evaluate the Safety and Efficacy of SCTC21C in Combination With Bortezomib, Lenalidomide and Dexamethasone in Patients With Newly Diagnosed Multiple Myeloma Not Eligible for Transplant"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-29"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Sinocelltech Ltd."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Multiple Myeloma (MM)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 292
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04528082",
+          "briefTitle": "Apremilast Pediatric Study in Children With Active Oral Ulcers Associated With Beh\u00e7et's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-09-09"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2030-02-07"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Amgen"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Beh\u00e7et Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 60
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06158269",
+          "briefTitle": "DVRd in the Treatment of Patients With Newly Diagnosed Double-hit Multiple Myeloma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-12"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Institute of Hematology & Blood Diseases Hospital, China"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Multiple Myeloma"
           ]
         },
         "designModule": {
@@ -369,11 +284,83 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 64
+            "count": 40
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06744361",
+          "briefTitle": "Ketamine Sedation As Neuroprotective Agent Following Out-of-hospital Cardiac Arrest"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-12-12"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-09-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Christian Hassager"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Out-of-hospital Cardiac Arrest (OHCA)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 282
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06846554",
+          "briefTitle": "A Trial of \"APL-9796'' in Adults With Pulmonary Hypertension"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-04-09"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-08-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Apollo Therapeutics Ltd"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Pulmonary Arterial Hypertension"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 48
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVdj7o2Elu8o3lp2BMm74q2tmpOQJJxtZvmn1Pg"
+  "nextPageToken": "ZVdj7o2Elu8o3lp2Vcm44unumpOQJJxtYvWl3Pg"
 }
