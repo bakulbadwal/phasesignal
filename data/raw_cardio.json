@@ -3,36 +3,35 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07473700",
-          "briefTitle": "Study of TX000045 in Participants With Pulmonary Hypertension Due to Interstitial Lung Disease"
+          "nctId": "NCT05885412",
+          "briefTitle": "A Phase 1, Dose Escalation Trial of RP-A601 in Subjects With PKP2 Variant-Mediated Arrhythmogenic Cardiomyopathy (PKP2-ACM)"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-08"
+            "date": "2023-08-29"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-11-21"
+            "date": "2028-09"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Tectonic Operating Company, Inc."
+            "name": "Rocket Pharmaceuticals Inc."
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Hypertension, Pulmonary",
-            "Lung Diseases, Interstitial"
+            "PKP2 Arrhythmogenic Cardiomyopathy (PKP2-ACM)"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE2"
+            "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 25
+            "count": 9
           }
         }
       }
@@ -40,65 +39,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05427084",
-          "briefTitle": "Canagliflozin Targeting Vascular Inflammation"
+          "nctId": "NCT06492265",
+          "briefTitle": "Emergency Stroke Unit for Acute Cerebrovascular Events ( ESU-ACE-B )"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2024-11-15"
+            "date": "2024-08-04"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-12"
+            "date": "2025-02-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Ottawa Heart Institute Research Corporation"
+            "name": "Yongjun Wang"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Diabetes Type 2",
-            "Coronary Artery Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2",
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 24
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07284758",
-          "briefTitle": "A Study to Evaluate the Efficacy of Cemsidomide + Dexamethasone in Participants With Relapsed/Refractory Multiple Myeloma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-02-18"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2030-03"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "C4 Therapeutics, Inc."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Multiple Myeloma",
-            "Relapsed/Refractory Multiple Myeloma"
+            "Ischemic Stroke, Acute"
           ]
         },
         "designModule": {
@@ -115,28 +75,210 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06758713",
-          "briefTitle": "Safety and Efficacy of Fourth-Generation CAR-T in the Treatment of Hematologic Malignancies"
+          "nctId": "NCT06666764",
+          "briefTitle": "Normobaric Oxygen in AIS Transferred for EVT"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-01-15"
+            "date": "2024-12-13"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-12-31"
+            "date": "2027-10"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "The Third Affiliated Hospital of Southern Medical University"
+            "name": "Capital Medical University"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Multiple Myeloma",
-            "B-cell Lymphoma",
-            "Hematological Malignancy"
+            "Ischemic Stroke"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 1500
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04968509",
+          "briefTitle": "Effect of PCSK9 Inhibitors on Calcific Aortic Valve Stenosis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-03-22"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Beijing Anzhen Hospital"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Aortic Stenosis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 160
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03271632",
+          "briefTitle": "Multi-CAR T Cell Therapy in the Treatment of Multiple Myeloma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-06-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-12-31"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Shenzhen Geno-Immune Medical Institute"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Multiple Myeloma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 20
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07223502",
+          "briefTitle": "A Study Comparing the Clinical Benefit of Finerenone Versus a Fixed Dose Combination (FDC) of Extended-Release Torsemide and Spironolactone in Patients With Hypertension and Chronic Kidney Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-07"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Sarfez Pharmaceuticals, Inc."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hypertension (HTN)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 30
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06361537",
+          "briefTitle": "Study of IV Human Plasma-derived C1 Esterase Inhibitor Concentrate in Patients With Congenital C1-INH Deficiency for Treatment and Pre-procedure Preventing of Acute Hereditary Angioedema Attacks"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-04-30"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Octapharma"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Acute Hereditary Angio Edema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 124
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05001750",
+          "briefTitle": "Prophylactic Antibiotics Useful With Antibiotic Impregnated External Ventricular Drains (EVDs)?"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-06-14"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-08"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Montefiore Medical Center"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Subarachnoid Hemorrhage",
+            "Intracerebral Hemorrhage",
+            "Ventriculitis, Cerebral",
+            "Hydrocephalus"
           ]
         },
         "designModule": {
@@ -145,7 +287,7 @@
             "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 60
+            "count": 84
           }
         }
       }
@@ -153,26 +295,28 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06919003",
-          "briefTitle": "Improving Deceased-Donor Kidney Transplant Outcomes Via a Single Intragraft Injection of C1 Esterase Inhibitor (IMPROVE TRIAL)"
+          "nctId": "NCT02693535",
+          "briefTitle": "TAPUR: Testing the Use of Food and Drug Administration (FDA) Approved Drugs That Target a Specific Abnormality in a Tumor Gene in People With Advanced Stage Cancer"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-09-22"
+            "date": "2016-03-14"
           },
           "primaryCompletionDateStruct": {
-            "date": "2031-05-30"
+            "date": "2027-12-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "National Institute of Allergy and Infectious Diseases (NIAID)"
+            "name": "American Society of Clinical Oncology"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Kidney Transplant"
+            "Lymphoma, Non-Hodgkin",
+            "Multiple Myeloma",
+            "Advanced Solid Tumors"
           ]
         },
         "designModule": {
@@ -181,43 +325,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 180
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT03593317",
-          "briefTitle": "Blockade of the Renin-angiotensin-aldosterone System in Patients With ARVD"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-12-20"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-12"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Hospices Civils de Lyon"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Arrhythmogenic Right Ventricular Dysplasia"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 120
+            "count": 4200
           }
         }
       }
@@ -257,119 +365,7 @@
           }
         }
       }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07032389",
-          "briefTitle": "A Polypill for Acute Coronary Syndrome"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-12-05"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2030-06-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Texas Southwestern Medical Center"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Acute Coronary Syndrome"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 1000
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06960213",
-          "briefTitle": "STOP-HAE: A Phase 3 Study of ADX-324 in HAE"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-08-28"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-06-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "ADARx Pharmaceuticals, Inc."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Hereditary Angioedema",
-            "HAE",
-            "Hereditary Angioedema - Type 1",
-            "Hereditary Angioedema - Type 2"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 90
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06938243",
-          "briefTitle": "Wether VNS in Early Stage (3 Months) is Safe and More Beneficial for Post-stroke Motor Rehabilitation"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-05-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-05-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Qilu Hospital of Shandong University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Stroke",
-            "Motor Rehabilitation"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 100
-          }
-        }
-      }
     }
   ],
-  "nextPageToken": "ZVt07cGHkvI2wRk2CJf6_LLqy5DbMtMod7KrgP4blT6TsPE"
+  "nextPageToken": "ZVt07cGHkvI2wRk2CJf6_LLtipDWMc8od7KrgP4enTqQvPE"
 }
