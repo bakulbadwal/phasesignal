@@ -3,98 +3,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05885412",
-          "briefTitle": "A Phase 1, Dose Escalation Trial of RP-A601 in Subjects With PKP2 Variant-Mediated Arrhythmogenic Cardiomyopathy (PKP2-ACM)"
+          "nctId": "NCT05726916",
+          "briefTitle": "Eculizumab in Hypertensive Emergency-associated Hemolytic Uremic Syndrome"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2023-08-29"
+            "date": "2023-11-09"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-09"
+            "date": "2026-05-09"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Rocket Pharmaceuticals Inc."
+            "name": "Assistance Publique - H\u00f4pitaux de Paris"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "PKP2 Arrhythmogenic Cardiomyopathy (PKP2-ACM)"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 9
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06492265",
-          "briefTitle": "Emergency Stroke Unit for Acute Cerebrovascular Events ( ESU-ACE-B )"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-08-04"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2025-02-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Yongjun Wang"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Ischemic Stroke, Acute"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 100
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06666764",
-          "briefTitle": "Normobaric Oxygen in AIS Transferred for EVT"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-12-13"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-10"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Capital Medical University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Ischemic Stroke"
+            "Hypertensive Emergency-associated Hemolytic Uremic Syndrome"
           ]
         },
         "designModule": {
@@ -103,7 +31,7 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 1500
+            "count": 66
           }
         }
       }
@@ -111,99 +39,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT04968509",
-          "briefTitle": "Effect of PCSK9 Inhibitors on Calcific Aortic Valve Stenosis"
+          "nctId": "NCT03998852",
+          "briefTitle": "In Vivo Involvement of the Cholinergic and Dopaminergic Systems in the Pathophysiology of Apathy."
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2024-03-22"
+            "date": "2021-04-13"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-12"
+            "date": "2027-04-13"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Beijing Anzhen Hospital"
+            "name": "University Hospital, Bordeaux"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Aortic Stenosis"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 160
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT03271632",
-          "briefTitle": "Multi-CAR T Cell Therapy in the Treatment of Multiple Myeloma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-06-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2029-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Shenzhen Geno-Immune Medical Institute"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Multiple Myeloma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1",
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 20
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07223502",
-          "briefTitle": "A Study Comparing the Clinical Benefit of Finerenone Versus a Fixed Dose Combination (FDC) of Extended-Release Torsemide and Spironolactone in Patients With Hypertension and Chronic Kidney Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-12-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-07"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Sarfez Pharmaceuticals, Inc."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Hypertension (HTN)"
+            "Apathy"
           ]
         },
         "designModule": {
@@ -220,65 +75,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06361537",
-          "briefTitle": "Study of IV Human Plasma-derived C1 Esterase Inhibitor Concentrate in Patients With Congenital C1-INH Deficiency for Treatment and Pre-procedure Preventing of Acute Hereditary Angioedema Attacks"
+          "nctId": "NCT06365099",
+          "briefTitle": "Identifying Personalized Brain States Predicting Residual Corticospinal Tract Output After Stroke"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2024-04-30"
+            "date": "2024-02-02"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-12"
+            "date": "2026-03-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Octapharma"
+            "name": "University of Texas at Austin"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Acute Hereditary Angio Edema"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 124
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05001750",
-          "briefTitle": "Prophylactic Antibiotics Useful With Antibiotic Impregnated External Ventricular Drains (EVDs)?"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2021-06-14"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-08"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Montefiore Medical Center"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Subarachnoid Hemorrhage",
-            "Intracerebral Hemorrhage",
-            "Ventriculitis, Cerebral",
-            "Hydrocephalus"
+            "Stroke"
           ]
         },
         "designModule": {
@@ -287,7 +103,7 @@
             "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 84
+            "count": 20
           }
         }
       }
@@ -295,37 +111,39 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT02693535",
-          "briefTitle": "TAPUR: Testing the Use of Food and Drug Administration (FDA) Approved Drugs That Target a Specific Abnormality in a Tumor Gene in People With Advanced Stage Cancer"
+          "nctId": "NCT06903559",
+          "briefTitle": "Roxadustat's Effect on Heart, Nutrition, and Inflammation in Hemodialysis Patients"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2016-03-14"
+            "date": "2025-04-15"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-12-31"
+            "date": "2025-10-15"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "American Society of Clinical Oncology"
+            "name": "Mansoura University"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Lymphoma, Non-Hodgkin",
-            "Multiple Myeloma",
-            "Advanced Solid Tumors"
+            "Kidney Failure, Chronic",
+            "Malnutrition-Inflammation Syndrome",
+            "Anemia in End Stage Renal Disease",
+            "Cardiovascular Diseases (CVD)"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
+            "PHASE1",
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 4200
+            "count": 46
           }
         }
       }
@@ -333,26 +151,27 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06514508",
-          "briefTitle": "Mobilization of Stem Cells With Motixafortide (BL-8040) in Combination With G-CSF in Multiple Myeloma Patients"
+          "nctId": "NCT06980480",
+          "briefTitle": "A Study of Gammagard Liquid (Immune Globulin Infusion, 10%) to Prevent Infections in Adults With Multiple Myeloma"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-12-01"
+            "date": "2026-01-14"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-12-31"
+            "date": "2028-09-11"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Guangzhou Gloria Biosciences Co., Ltd."
+            "name": "Takeda"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Multiple Myeloma"
+            "Multiple Myeloma",
+            "Secondary Immunodeficiency"
           ]
         },
         "designModule": {
@@ -361,11 +180,204 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 60
+            "count": 183
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07509086",
+          "briefTitle": "IL-15-Armored CAR-T Therapy in Relapsed or Refractory Multiple Myeloma and Plasma Cell Leukemia"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-29"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-07-15"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "The First Hospital of Jilin University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Relapsed/Refractory Multiple Myeloma",
+            "Plasma Cell Leukemia (PCL)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 25
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06685042",
+          "briefTitle": "Anti-CD19 CAR T-Cell Therapy in Refractory Systemic Autoimmune Diseases"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-11-29"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2025-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Lupus Erythematosus, Systemic",
+            "System; Sclerosis",
+            "ANCA Associated Vasculitis",
+            "Dermatomyositis",
+            "Polymyositis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 8
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06940297",
+          "briefTitle": "Dasatinib and Quercetin With CAR-T Therapy for the Treatment of Patients With Relapsed or Refractory Multiple Myeloma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-09-18"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2031-08-15"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Mayo Clinic"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Recurrent Multiple Myeloma",
+            "Refractory Multiple Myeloma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 44
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06998862",
+          "briefTitle": "Colchicine in Chronic Kidney Disease Patients"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-02-12"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-12-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Hospital General Universitario Gregorio Mara\u00f1on"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Kidney Disease",
+            "Cardiovascular Events"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 744
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07305116",
+          "briefTitle": "CAR T-cell Therapy Targeting CD19 and BCMA in Patients With B Cell Mediated Autoimmune Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "The Children's Hospital of Zhejiang University School of Medicine"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Autoimmune Diseases",
+            "Systemic Lupus Erthematosus (SLE)",
+            "Multi-Drug Resistant Nephrotic Syndrome",
+            "IgA Nephropathy (IgAN)",
+            "Systemic Sclerosis (SSc)",
+            "ANCA Associated Systemic Vasculitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 15
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVt07cGHkvI2wRk2CJf6_LLtipDWMc8od7KrgP4enTqQvPE"
+  "nextPageToken": "ZVt07cGHkvI2wRk2CJf6_LLt25GeMN8wd7KrgP4emDyQsfE"
 }
