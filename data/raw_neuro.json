@@ -3,27 +3,109 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05282550",
-          "briefTitle": "Targeting Cognition in Early Alzheimer's Disease by Improving Sleep With Trazodone"
+          "nctId": "NCT05336695",
+          "briefTitle": "Assess Fibrin in Brains With AD/ADRD"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2023-02-02"
+            "date": "2022-03-29"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-07-30"
+            "date": "2026-09-28"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Johns Hopkins University"
+            "name": "Massachusetts General Hospital"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "AMCI - Amnestic Mild Cognitive Impairment",
-            "Sleep Disturbance"
+            "Alzheimer Disease",
+            "Dementia of Alzheimer Type"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 30
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05462106",
+          "briefTitle": "A Study to Assess the Effects of ACI-24.060 in Alzheimer's Disease and in Down Syndrome (ABATE Study)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-06-21"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-04"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "AC Immune SA"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyloid Plaque",
+            "Beta-Amyloid",
+            "DSAD",
+            "Prodromal Alzheimer's Disease",
+            "Alzheimer's Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 304
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05446584",
+          "briefTitle": "Pathways Relating Amnestic MCI to a Mild Traumatic Brain Injury History"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-04-20"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-05-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Texas Southwestern Medical Center"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Mild Cognitive Impairment",
+            "Amnestic Mild Cognitive Disorder",
+            "Amnestic Mild Cognitive Impairment",
+            "Mild Traumatic Brain Injury",
+            "Concussion, Brain"
           ]
         },
         "designModule": {
@@ -32,7 +114,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 100
+            "count": 75
           }
         }
       }
@@ -40,21 +122,62 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07367815",
-          "briefTitle": "Allogeneic Adipose Tissue Derived-stem Cells in Alzheimer Disease"
+          "nctId": "NCT07279740",
+          "briefTitle": "Combined Brain Stimulation and Methylphenidate Treatment for Apathy in Dementia"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-05-07"
+            "date": "2026-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2029-05-01"
+            "date": "2027-10-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "University Hospital, Toulouse"
+            "name": "Sunnybrook Health Sciences Centre"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer s Disease",
+            "Alzheimer Dementia (AD)",
+            "Alzheimer Dementia",
+            "Alzheimer Disease",
+            "Apathy",
+            "Apathy in Dementia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 12
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06585384",
+          "briefTitle": "Safety of a Strategy Combining Etanercept Administration With Repeated Contrast Ultrasound in Patients With Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-04-15"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-06"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Fondation Ophtalmologique Adolphe de Rothschild"
           }
         },
         "conditionsModule": {
@@ -65,11 +188,10 @@
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE1",
-            "PHASE2"
+            "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 9
+            "count": 5
           }
         }
       }
@@ -77,27 +199,63 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07553338",
-          "briefTitle": "Safety Assessment of Leronlimab and Its Effect on Brain Inflammation in Alzheimer's Disease"
+          "nctId": "NCT06126224",
+          "briefTitle": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-2)"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-04-30"
+            "date": "2023-08-28"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-11"
+            "date": "2026-12-09"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Weill Medical College of Cornell University"
+            "name": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Mild Cognitive Impairment (MCI) Due to Alzheimer's Disease",
-            "Alzheimer's Disease"
+            "Psychosis Associated With Alzheimer's Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 500
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07252440",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of TTYP01 Tablets in Early Symptomatic Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-19"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-10-23"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Shanghai Auzone Biological Technology Co., Ltd."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "AD",
+            "Early Alzheimer's Disease"
           ]
         },
         "designModule": {
@@ -106,43 +264,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 20
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07741071",
-          "briefTitle": "N-AD: Orally Administered Nicotinamide Riboside Over Two Years as a Potential Disease Modifying Treatment for Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-08-26"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2030-04-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Haukeland University Hospital"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease (AD)"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 270
+            "count": 180
           }
         }
       }
@@ -183,125 +305,7 @@
           }
         }
       }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05641688",
-          "briefTitle": "[18F]PI-2620 Phase 3 Histopathological Study"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2022-12-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-06"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Lantheus Biosciences Ltd."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 200
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07230652",
-          "briefTitle": "A Phase 1 MAD Study to Evaluate the Safety and Tolerability of LY03020"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-08-20"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2025-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Luye Pharma Group Ltd."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Schizophrenia",
-            "Alzheimer's Disease Psychosis"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 40
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07234695",
-          "briefTitle": "LEvetiracetam to Prevent Seizures in Symptomatic Alzheimer's Disease in Adults With Down Syndrome"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-12-22"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-12"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Fundaci\u00f3 Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Down Syndrome",
-            "Down Syndrome (DS)",
-            "Down Syndrome (Trisomy 21)",
-            "Alzheimer Dementia",
-            "Alzheimer Dementia (AD)",
-            "Alzheimer Disease",
-            "Alzheimer Disease (AD)",
-            "Alzheimer Blood Biomarkers",
-            "Epilepsy",
-            "Seizures"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 120
-          }
-        }
-      }
     }
   ],
-  "nextPageToken": "ZVt07cGHkvI2wRk2CJf6_LLt25GeMN8wd7KrgP4blDeUv_Qw"
+  "nextPageToken": "ZVt07cGHkvI2wRk2CJf6_LLt1ZGdP8swd7KrgP4fmT-TufE"
 }
