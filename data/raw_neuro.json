@@ -3,27 +3,246 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05336695",
-          "briefTitle": "Assess Fibrin in Brains With AD/ADRD"
+          "nctId": "NCT05667649",
+          "briefTitle": "Autologous Activated Adipose-derived Stem Cells (RB-ADSC) Injected Directly Into the Brain for Mild to Moderate Alzheimer's Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2022-03-29"
+            "date": "2023-08-14"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-09-28"
+            "date": "2026-08"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Massachusetts General Hospital"
+            "name": "Regeneration Biomedical, Inc."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 18
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07284472",
+          "briefTitle": "Safety and Efficacy of EXV-802 and EXV-801 in the Treatment of Agitation in Alzheimer's Disease Dementia"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-02-02"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Exciva GmbH"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Agitation Associated With Alzheimer's Disease Dementia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 300
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07105709",
+          "briefTitle": "Open-label Extension Study in Participants With Early Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-08-14"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-09-15"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "GlaxoSmithKline"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer's Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 220
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06850597",
+          "briefTitle": "Efficacy and Safety of Dimethyl Fumarate Among Patients with Mild Cognitive Impairment and Dementia Due to Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-10-28"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-12-31"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Medical University of Lodz"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "MCI",
+            "MCI-AD, Early Stage Alzheimer's Disease",
+            "Alzheimer's Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 30
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04516057",
+          "briefTitle": "Nabilone for Agitation Blinded Intervention Trial"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-02-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-04"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Sunnybrook Health Sciences Centre"
           }
         },
         "conditionsModule": {
           "conditions": [
             "Alzheimer Disease",
-            "Dementia of Alzheimer Type"
+            "Agitation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 112
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07399171",
+          "briefTitle": "Study to Evaluate the Effect of HT-4253 for the Prevention of Alzheimer's Disease in APOE4 Carriers"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-05-12"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-02"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Halia Therapeutics, Inc."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimers Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 112
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06582706",
+          "briefTitle": "Nicotinic Acid for the Treatment of Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-12-19"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Indiana University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease"
           ]
         },
         "designModule": {
@@ -41,184 +260,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05462106",
-          "briefTitle": "A Study to Assess the Effects of ACI-24.060 in Alzheimer's Disease and in Down Syndrome (ABATE Study)"
+          "nctId": "NCT06530732",
+          "briefTitle": "Deep Cervical Lymphatlc-Venous Anastomosis Surgery for the Treatment of Alzheimer's Disease: A Pilot Study (DIVA Study)"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2022-06-21"
+            "date": "2024-07-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2029-04"
+            "date": "2026-06-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "AC Immune SA"
+            "name": "Zhejiang Provincial People's Hospital"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Amyloid Plaque",
-            "Beta-Amyloid",
-            "DSAD",
-            "Prodromal Alzheimer's Disease",
             "Alzheimer's Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1",
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 304
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05446584",
-          "briefTitle": "Pathways Relating Amnestic MCI to a Mild Traumatic Brain Injury History"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-04-20"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-05-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Texas Southwestern Medical Center"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Mild Cognitive Impairment",
-            "Amnestic Mild Cognitive Disorder",
-            "Amnestic Mild Cognitive Impairment",
-            "Mild Traumatic Brain Injury",
-            "Concussion, Brain"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 75
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07279740",
-          "briefTitle": "Combined Brain Stimulation and Methylphenidate Treatment for Apathy in Dementia"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-10-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Sunnybrook Health Sciences Centre"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer s Disease",
-            "Alzheimer Dementia (AD)",
-            "Alzheimer Dementia",
-            "Alzheimer Disease",
-            "Apathy",
-            "Apathy in Dementia"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 12
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06585384",
-          "briefTitle": "Safety of a Strategy Combining Etanercept Administration With Repeated Contrast Ultrasound in Patients With Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-04-15"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-06"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Fondation Ophtalmologique Adolphe de Rothschild"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 5
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06126224",
-          "briefTitle": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-2)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-08-28"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-09"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Psychosis Associated With Alzheimer's Disease"
           ]
         },
         "designModule": {
@@ -227,85 +288,11 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 500
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07252440",
-          "briefTitle": "A Study to Evaluate the Efficacy and Safety of TTYP01 Tablets in Early Symptomatic Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-12-19"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-10-23"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Shanghai Auzone Biological Technology Co., Ltd."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "AD",
-            "Early Alzheimer's Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 180
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07580703",
-          "briefTitle": "A Phase I Study of [18F]Flortaucipir PET Imaging in Chinese Subjects: Safety, Pharmacokinetics, Biodistribution, Radiation Dosimetry, and Preliminary Diagnostic Efficacy"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-04-23"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Eli Radiopharma"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "AD - Alzheimer's Disease",
-            "MCI"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 18
+            "count": 60
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVt07cGHkvI2wRk2CJf6_LLt1ZGdP8swd7KrgP4fmT-TufE"
+  "nextPageToken": "ZVt07cGHkvI2wRk2CJf6_LLtz5GYPNRrd7KrgP4ZnDmavfgw"
 }

@@ -46,73 +46,17 @@
   ],
   "trials": [
     {
-      "nctId": "NCT06107686",
-      "title": "A Study of YL202 in Selected Patients With Advanced Solid Tumors",
+      "nctId": "NCT07806617",
+      "title": "Intralesional Gardasil-9 for the Treatment of Recalcitrant Warts",
       "therapeuticArea": "Oncology",
-      "condition": "NSCLC",
+      "condition": "Warts",
       "phase": "Phase 2",
-      "sponsor": "MediLink Therapeutics (Suzhou) Co., Ltd.",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 200,
-      "startDate": "2023-12-15",
-      "primaryCompletionDate": "2026-11",
-      "baseRate": 0.283,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (200) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~35 months) is within a normal range for this phase.",
-        "competitiveDensity": "1369 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 1369,
-      "adjustedProbability": 0.298
-    },
-    {
-      "nctId": "NCT05761470",
-      "title": "Neoadjuvant Camrelizumab and Fluzoparib and Nab-paclitaxel in Early Breast Cancer With HRR Gene Mutation",
-      "therapeuticArea": "Oncology",
-      "condition": "Her-2 Negative Breast Cancer",
-      "phase": "Phase 2",
-      "sponsor": "Ying Lin",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 66,
-      "startDate": "2022-05-06",
-      "primaryCompletionDate": "2024-06-30",
-      "baseRate": 0.283,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (66) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~25 months) is within a normal range for this phase.",
-        "competitiveDensity": "365 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 365,
-      "adjustedProbability": 0.298
-    },
-    {
-      "nctId": "NCT07144254",
-      "title": "Tegavivint With Gemcitabine in Patients With Relapsed or Refractory Osteosarcoma",
-      "therapeuticArea": "Oncology",
-      "condition": "Osteosarcoma Recurrent",
-      "phase": "Phase 1",
-      "sponsor": "Emory University",
+      "sponsor": "Rush University Medical Center",
       "sponsorTier": "Academic/Institutional",
-      "enrollment": 24,
-      "startDate": "2026-01-22",
-      "primaryCompletionDate": "2028-05",
-      "baseRate": 0.409,
+      "enrollment": 55,
+      "startDate": "2025-09-02",
+      "primaryCompletionDate": "2027-06",
+      "baseRate": 0.283,
       "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
       "factorScores": {
         "sponsorProfile": 3,
@@ -122,53 +66,165 @@
       },
       "factorNotes": {
         "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
-        "trialDesign": "Enrollment target (24) is within the typical range for Phase 1.",
-        "timeline": "Planned duration (~28 months) is within a normal range for this phase.",
-        "competitiveDensity": "Only 25 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
+        "trialDesign": "Enrollment target (55) is within the typical range for Phase 2.",
+        "timeline": "Planned duration (~21 months) is within a normal range for this phase.",
+        "competitiveDensity": "Only 23 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
       },
-      "competitiveTrialCount": 25,
-      "adjustedProbability": 0.431
+      "competitiveTrialCount": 23,
+      "adjustedProbability": 0.305
     },
     {
-      "nctId": "NCT07589205",
-      "title": "Study of IBI3028 in Participants With Locally Advanced, Unresectable, or Metastatic Solid Tumors",
+      "nctId": "NCT06654440",
+      "title": "A Trial of SHR-A2102 for Treatment of Advanced Gynecological Malignancy",
       "therapeuticArea": "Oncology",
-      "condition": "Solid Tumor",
-      "phase": "Phase 1",
-      "sponsor": "Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD.",
+      "condition": "Advanced Gynecological Malignancy",
+      "phase": "Phase 2",
+      "sponsor": "Shanghai Hengrui Pharmaceutical Co., Ltd.",
       "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 493,
-      "startDate": "2026-03-31",
-      "primaryCompletionDate": "2027-06-30",
+      "enrollment": 100,
+      "startDate": "2024-11-15",
+      "primaryCompletionDate": "2025-08-31",
+      "baseRate": 0.283,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
+      "factorScores": {
+        "sponsorProfile": 4,
+        "trialDesign": 4,
+        "timeline": 4,
+        "competitiveDensity": 4
+      },
+      "factorNotes": {
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (100) is within the typical range for Phase 2.",
+        "timeline": "Planned duration (~9 months) is within a normal range for this phase.",
+        "competitiveDensity": "Only 15 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
+      },
+      "competitiveTrialCount": 15,
+      "adjustedProbability": 0.313
+    },
+    {
+      "nctId": "NCT05422690",
+      "title": "The Purpose of This Research Study is to See if Combining Gemcitabine, Cisplatin and Durvalumab Chemotherapy Treatments With a Direct Tumor Therapy Yittrium-90 (Y-90) Will Work Better Together to Shrink Tumors and Control Cancer",
+      "therapeuticArea": "Oncology",
+      "condition": "Intrahepatic Cholangiocarcinoma",
+      "phase": "Phase 2",
+      "sponsor": "Inova Health Care Services",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 16,
+      "startDate": "2024-06-12",
+      "primaryCompletionDate": "2027-03-30",
+      "baseRate": 0.283,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
+      "factorScores": {
+        "sponsorProfile": 4,
+        "trialDesign": 2,
+        "timeline": 4,
+        "competitiveDensity": 3
+      },
+      "factorNotes": {
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (16) is notably small for Phase 2 \u2014 may limit statistical power.",
+        "timeline": "Planned duration (~33 months) is within a normal range for this phase.",
+        "competitiveDensity": "72 actively recruiting trials exist for this condition \u2014 moderately competitive."
+      },
+      "competitiveTrialCount": 72,
+      "adjustedProbability": 0.29
+    },
+    {
+      "nctId": "NCT06651697",
+      "title": "BladdEr Full OR Empty for Pelvic Radiation Therapy",
+      "therapeuticArea": "Oncology",
+      "condition": "Pelvic Neoplasm",
+      "phase": "Phase 3",
+      "sponsor": "University of California, San Diego",
+      "sponsorTier": "Academic/Institutional",
+      "enrollment": 300,
+      "startDate": "2024-11-19",
+      "primaryCompletionDate": "2028-04",
+      "baseRate": 0.37,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
+      "factorScores": {
+        "sponsorProfile": 3,
+        "trialDesign": 4,
+        "timeline": 4,
+        "competitiveDensity": 3
+      },
+      "factorNotes": {
+        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
+        "trialDesign": "Enrollment target (300) is within the typical range for Phase 3.",
+        "timeline": "Planned duration (~41 months) is within a normal range for this phase.",
+        "competitiveDensity": "142 actively recruiting trials exist for this condition \u2014 moderately competitive."
+      },
+      "competitiveTrialCount": 142,
+      "adjustedProbability": 0.385
+    },
+    {
+      "nctId": "NCT07158710",
+      "title": "Phase I Study of HSK42360 in Malignant Brain Tumors With BRAF V600 Mutation",
+      "therapeuticArea": "Oncology",
+      "condition": "Malignant Brain Tumors",
+      "phase": "Phase 1",
+      "sponsor": "Haisco Pharmaceutical Group Co., Ltd.",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 159,
+      "startDate": "2025-08-15",
+      "primaryCompletionDate": "2029-05-23",
       "baseRate": 0.409,
       "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
       "factorScores": {
         "sponsorProfile": 4,
         "trialDesign": 5,
         "timeline": 4,
+        "competitiveDensity": 3
+      },
+      "factorNotes": {
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (159) is large for Phase 1 \u2014 typically signals higher confidence investment.",
+        "timeline": "Planned duration (~45 months) is within a normal range for this phase.",
+        "competitiveDensity": "100 actively recruiting trials exist for this condition \u2014 moderately competitive."
+      },
+      "competitiveTrialCount": 100,
+      "adjustedProbability": 0.439
+    },
+    {
+      "nctId": "NCT07006506",
+      "title": "A Study of Belumosudil in People at Risk of Developing Graft-Versus-Host Disease After a Stem Cell Transplant",
+      "therapeuticArea": "Oncology",
+      "condition": "Graft Versus Host Disease",
+      "phase": "Phase 2",
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 46,
+      "startDate": "2025-05-21",
+      "primaryCompletionDate": "2029-05-21",
+      "baseRate": 0.283,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
+      "factorScores": {
+        "sponsorProfile": 4,
+        "trialDesign": 2,
+        "timeline": 4,
         "competitiveDensity": 2
       },
       "factorNotes": {
         "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (493) is large for Phase 1 \u2014 typically signals higher confidence investment.",
-        "timeline": "Planned duration (~15 months) is within a normal range for this phase.",
-        "competitiveDensity": "1933 actively recruiting trials exist for this condition \u2014 a crowded field."
+        "trialDesign": "Enrollment target (46) is notably small for Phase 2 \u2014 may limit statistical power.",
+        "timeline": "Planned duration (~48 months) is within a normal range for this phase.",
+        "competitiveDensity": "203 actively recruiting trials exist for this condition \u2014 a crowded field."
       },
-      "competitiveTrialCount": 1933,
-      "adjustedProbability": 0.431
+      "competitiveTrialCount": 203,
+      "adjustedProbability": 0.283
     },
     {
-      "nctId": "NCT07464951",
-      "title": "CART123 Cells With or Without Ruxolitinib in Relapsed/Refractory Acute Myeloid Leukemia",
+      "nctId": "NCT06961006",
+      "title": "A Clinical Study of Intismeran Autogene (V940) and Pembrolizumab (MK-3475) in People With Melanoma (V940-012/INTerpath-012)",
       "therapeuticArea": "Oncology",
-      "condition": "Acute Myeloid Leukemia (AML)",
-      "phase": "Phase 1",
-      "sponsor": "Stephan Grupp MD PhD",
+      "condition": "Malignant Melanoma",
+      "phase": "Phase 2",
+      "sponsor": "Merck Sharp & Dohme LLC",
       "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 30,
-      "startDate": "2026-05-14",
-      "primaryCompletionDate": "2029-05-14",
-      "baseRate": 0.409,
+      "enrollment": 160,
+      "startDate": "2025-05-29",
+      "primaryCompletionDate": "2028-07-22",
+      "baseRate": 0.283,
       "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
       "factorScores": {
         "sponsorProfile": 4,
@@ -178,276 +234,136 @@
       },
       "factorNotes": {
         "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (30) is within the typical range for Phase 1.",
-        "timeline": "Planned duration (~36 months) is within a normal range for this phase.",
-        "competitiveDensity": "591 actively recruiting trials exist for this condition \u2014 a crowded field."
+        "trialDesign": "Enrollment target (160) is within the typical range for Phase 2.",
+        "timeline": "Planned duration (~38 months) is within a normal range for this phase.",
+        "competitiveDensity": "476 actively recruiting trials exist for this condition \u2014 a crowded field."
       },
-      "competitiveTrialCount": 591,
-      "adjustedProbability": 0.424
+      "competitiveTrialCount": 476,
+      "adjustedProbability": 0.298
     },
     {
-      "nctId": "NCT07104331",
-      "title": "SARC046: A Phase II Trial of Nab-Sirolimus in Patients With Progressing or Symptomatic Epithelioid Hemangioendothelioma",
+      "nctId": "NCT07297004",
+      "title": "Stereotactic Body Radiation Therapy for Unresectable Locally Recurrent Rectal Cancer",
       "therapeuticArea": "Oncology",
-      "condition": "Epithelioid Hemangioendothelioma (EHE)",
+      "condition": "Unresectable Locally Recurrent Rectal Cancer",
       "phase": "Phase 2",
-      "sponsor": "Sarcoma Alliance for Research through Collaboration",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 41,
-      "startDate": "2026-02-24",
-      "primaryCompletionDate": "2029-08-30",
+      "sponsor": "Sixth Affiliated Hospital, Sun Yat-sen University",
+      "sponsorTier": "Academic/Institutional",
+      "enrollment": 20,
+      "startDate": "2025-01-01",
+      "primaryCompletionDate": "2026-11-30",
       "baseRate": 0.283,
       "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
       "factorScores": {
-        "sponsorProfile": 4,
+        "sponsorProfile": 3,
         "trialDesign": 2,
         "timeline": 4,
         "competitiveDensity": 4
       },
       "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (41) is notably small for Phase 2 \u2014 may limit statistical power.",
-        "timeline": "Planned duration (~42 months) is within a normal range for this phase.",
-        "competitiveDensity": "Only 2 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
+        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
+        "trialDesign": "Enrollment target (20) is notably small for Phase 2 \u2014 may limit statistical power.",
+        "timeline": "Planned duration (~22 months) is within a normal range for this phase.",
+        "competitiveDensity": "Only 8 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
       },
-      "competitiveTrialCount": 2,
-      "adjustedProbability": 0.298
+      "competitiveTrialCount": 8,
+      "adjustedProbability": 0.29
     },
     {
-      "nctId": "NCT07802353",
-      "title": "A Study of Stereotactic Radiosurgery (SRS) in People With Brain Cancer Having Tumor Resection Surgery",
+      "nctId": "NCT07539155",
+      "title": "Intratumoral MMR Vaccine Injection in Borderline Resectable/Unresectable Pancreatic Cancer",
       "therapeuticArea": "Oncology",
-      "condition": "Brain Metastasases",
+      "condition": "Borderline Resectable/Unresectable Pancreatic Cancer",
       "phase": "Phase 2",
-      "sponsor": "Memorial Sloan Kettering Cancer Center",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 50,
-      "startDate": "2026-08-28",
+      "sponsor": "University of Arkansas",
+      "sponsorTier": "Academic/Institutional",
+      "enrollment": 20,
+      "startDate": "2026-06-26",
       "primaryCompletionDate": "2028-08",
       "baseRate": 0.283,
       "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
       "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 4,
+        "sponsorProfile": 3,
+        "trialDesign": 2,
         "timeline": 4,
         "competitiveDensity": 4
       },
       "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (50) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~24 months) is within a normal range for this phase.",
-        "competitiveDensity": "Only 9 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
+        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
+        "trialDesign": "Enrollment target (20) is notably small for Phase 2 \u2014 may limit statistical power.",
+        "timeline": "Planned duration (~26 months) is within a normal range for this phase.",
+        "competitiveDensity": "Only 3 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
       },
-      "competitiveTrialCount": 9,
-      "adjustedProbability": 0.313
+      "competitiveTrialCount": 3,
+      "adjustedProbability": 0.29
     },
     {
-      "nctId": "NCT06113809",
-      "title": "Palbociclib and Pembrolizumab in Sarcoma",
+      "nctId": "NCT07254585",
+      "title": "SYS6010 Combined With Enlonstobart In Recurrent Or Metastatic Head And Neck Squamous Cell Carcinoma",
       "therapeuticArea": "Oncology",
-      "condition": "Sarcoma",
-      "phase": "Phase 1",
-      "sponsor": "John Rieth",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 8,
-      "startDate": "2024-02-01",
-      "primaryCompletionDate": "2028-07",
-      "baseRate": 0.409,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 2,
-        "timeline": 4,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (8) is notably small for Phase 1 \u2014 may limit statistical power.",
-        "timeline": "Planned duration (~53 months) is within a normal range for this phase.",
-        "competitiveDensity": "539 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 539,
-      "adjustedProbability": 0.409
-    },
-    {
-      "nctId": "NCT05469893",
-      "title": "Immuno-PRISM (PRecision Intervention Smoldering Myeloma)",
-      "therapeuticArea": "Oncology",
-      "condition": "High-risk Smoldering Multiple Myeloma",
+      "condition": "Head and Neck Squamous Cell Carcinoma",
       "phase": "Phase 2",
-      "sponsor": "Irene Ghobrial, MD",
+      "sponsor": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
       "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 52,
-      "startDate": "2022-08-10",
-      "primaryCompletionDate": "2030-07-31",
+      "enrollment": 70,
+      "startDate": "2025-12-18",
+      "primaryCompletionDate": "2026-06-30",
       "baseRate": 0.283,
       "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
       "factorScores": {
         "sponsorProfile": 4,
         "trialDesign": 4,
-        "timeline": 2,
-        "competitiveDensity": 4
+        "timeline": 4,
+        "competitiveDensity": 2
       },
       "factorNotes": {
         "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (52) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~95 months) is unusually long \u2014 longer timelines carry more execution risk.",
-        "competitiveDensity": "Only 13 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
+        "trialDesign": "Enrollment target (70) is within the typical range for Phase 2.",
+        "timeline": "Planned duration (~6 months) is within a normal range for this phase.",
+        "competitiveDensity": "638 actively recruiting trials exist for this condition \u2014 a crowded field."
       },
-      "competitiveTrialCount": 13,
+      "competitiveTrialCount": 638,
       "adjustedProbability": 0.298
     },
     {
-      "nctId": "NCT06343038",
-      "title": "Targeted Radionuclide Therapy in Metastatic Prostate Cancer Using a New PSMA Ligand Radiolabelled With Terbium-161 (161Tb-SibuDAB) - Dose Identification/Escalation Phase Ia/b Study",
+      "nctId": "NCT02693535",
+      "title": "TAPUR: Testing the Use of Food and Drug Administration (FDA) Approved Drugs That Target a Specific Abnormality in a Tumor Gene in People With Advanced Stage Cancer",
       "therapeuticArea": "Oncology",
-      "condition": "Castration-resistant Prostate Cancer",
-      "phase": "Phase 1",
-      "sponsor": "University Hospital, Basel, Switzerland",
-      "sponsorTier": "Academic/Institutional",
-      "enrollment": 25,
-      "startDate": "2024-02-20",
-      "primaryCompletionDate": "2028-06",
-      "baseRate": 0.409,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
-      "factorScores": {
-        "sponsorProfile": 3,
-        "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
-        "trialDesign": "Enrollment target (25) is within the typical range for Phase 1.",
-        "timeline": "Planned duration (~52 months) is within a normal range for this phase.",
-        "competitiveDensity": "237 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 237,
-      "adjustedProbability": 0.416
-    },
-    {
-      "nctId": "NCT05472948",
-      "title": "Surufatinib and Sintilimab in Combination With Capecitabine for Metastatic Adenocarcinoma of Small Intestine or Appendix Carcinoma",
-      "therapeuticArea": "Oncology",
-      "condition": "Adenocarcinoma of Small Intestine",
+      "condition": "Lymphoma, Non-Hodgkin",
       "phase": "Phase 2",
-      "sponsor": "Sun Yat-sen University",
+      "sponsor": "American Society of Clinical Oncology",
       "sponsorTier": "Academic/Institutional",
-      "enrollment": 36,
-      "startDate": "2023-02-01",
-      "primaryCompletionDate": "2027-12-30",
+      "enrollment": 4200,
+      "startDate": "2016-03-14",
+      "primaryCompletionDate": "2027-12-31",
       "baseRate": 0.283,
       "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
       "factorScores": {
         "sponsorProfile": 3,
-        "trialDesign": 2,
-        "timeline": 4,
-        "competitiveDensity": 3
+        "trialDesign": 5,
+        "timeline": 2,
+        "competitiveDensity": 2
       },
       "factorNotes": {
         "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
-        "trialDesign": "Enrollment target (36) is notably small for Phase 2 \u2014 may limit statistical power.",
-        "timeline": "Planned duration (~58 months) is within a normal range for this phase.",
-        "competitiveDensity": "95 actively recruiting trials exist for this condition \u2014 moderately competitive."
+        "trialDesign": "Enrollment target (4200) is large for Phase 2 \u2014 typically signals higher confidence investment.",
+        "timeline": "Planned duration (~141 months) is unusually long \u2014 longer timelines carry more execution risk.",
+        "competitiveDensity": "961 actively recruiting trials exist for this condition \u2014 a crowded field."
       },
-      "competitiveTrialCount": 95,
+      "competitiveTrialCount": 961,
       "adjustedProbability": 0.283
     },
     {
-      "nctId": "NCT07241767",
-      "title": "A Phase II Clinical Study of FH-006 for Injection Combined With Other Anticancer Therapies in Subjects With Lung Cancer",
+      "nctId": "NCT06949410",
+      "title": "HER2 Vaccine for Locally Advanced Breast Cancer",
       "therapeuticArea": "Oncology",
-      "condition": "Lung Cancer",
-      "phase": "Phase 2",
-      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 200,
-      "startDate": "2025-11-12",
-      "primaryCompletionDate": "2027-11",
-      "baseRate": 0.283,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (200) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~24 months) is within a normal range for this phase.",
-        "competitiveDensity": "2293 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 2293,
-      "adjustedProbability": 0.298
-    },
-    {
-      "nctId": "NCT07473167",
-      "title": "Study of Safety and Efficacy of TC011 in the Relapsed/Refractory Large B Cell Non-Hodgkin Lymphoma Patients",
-      "therapeuticArea": "Oncology",
-      "condition": "Relapsed Large B-cell Lymphoma",
-      "phase": "Phase 2",
-      "sponsor": "TICAROS Co., Ltd.",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 98,
-      "startDate": "2023-08-03",
-      "primaryCompletionDate": "2028-02-11",
-      "baseRate": 0.283,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 3
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (98) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~54 months) is within a normal range for this phase.",
-        "competitiveDensity": "171 actively recruiting trials exist for this condition \u2014 moderately competitive."
-      },
-      "competitiveTrialCount": 171,
-      "adjustedProbability": 0.305
-    },
-    {
-      "nctId": "NCT07020806",
-      "title": "[68Ga]Ga DOTA-5G as a Diagnostic Imaging Agent for Metastatic/Advanced Invasive Lobular Breast Cancer (LBC)",
-      "therapeuticArea": "Oncology",
-      "condition": "Metastatic Lobular Breast Carcinoma",
+      "condition": "Breast Cancer",
       "phase": "Phase 1",
-      "sponsor": "University of California, Davis",
-      "sponsorTier": "Academic/Institutional",
-      "enrollment": 30,
-      "startDate": "2025-11-18",
-      "primaryCompletionDate": "2027-06",
-      "baseRate": 0.409,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
-      "factorScores": {
-        "sponsorProfile": 3,
-        "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 4
-      },
-      "factorNotes": {
-        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
-        "trialDesign": "Enrollment target (30) is within the typical range for Phase 1.",
-        "timeline": "Planned duration (~19 months) is within a normal range for this phase.",
-        "competitiveDensity": "Only 9 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
-      },
-      "competitiveTrialCount": 9,
-      "adjustedProbability": 0.431
-    },
-    {
-      "nctId": "NCT06616636",
-      "title": "A Phase Ib Study of Rezatapopt in Combination With Azacitidine in Patients With TP53Y220C Mutant Myeloid Malignancies (Acute Myeloid Leukemia or Myelodysplastic Syndrome)",
-      "therapeuticArea": "Oncology",
-      "condition": "Myelodysplastic Syndrome",
-      "phase": "Phase 1",
-      "sponsor": "M.D. Anderson Cancer Center",
+      "sponsor": "Pravin T.P Kaumaya",
       "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 24,
-      "startDate": "2025-01-30",
-      "primaryCompletionDate": "2027-08-27",
+      "enrollment": 36,
+      "startDate": "2026-09",
+      "primaryCompletionDate": "2029-12",
       "baseRate": 0.409,
       "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
       "factorScores": {
@@ -458,164 +374,136 @@
       },
       "factorNotes": {
         "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (24) is within the typical range for Phase 1.",
-        "timeline": "Planned duration (~31 months) is within a normal range for this phase.",
-        "competitiveDensity": "346 actively recruiting trials exist for this condition \u2014 a crowded field."
+        "trialDesign": "Enrollment target (36) is within the typical range for Phase 1.",
+        "timeline": "Planned duration (~39 months) is within a normal range for this phase.",
+        "competitiveDensity": "2446 actively recruiting trials exist for this condition \u2014 a crowded field."
       },
-      "competitiveTrialCount": 346,
+      "competitiveTrialCount": 2446,
       "adjustedProbability": 0.424
     },
     {
-      "nctId": "NCT05469893",
-      "title": "Immuno-PRISM (PRecision Intervention Smoldering Myeloma)",
-      "therapeuticArea": "Cardiovascular",
-      "condition": "High-risk Smoldering Multiple Myeloma",
-      "phase": "Phase 2",
-      "sponsor": "Irene Ghobrial, MD",
+      "nctId": "NCT07226349",
+      "title": "A Study of BG-75098 Alone and in Combination With Other Agents in Adults With Advanced Solid Tumors",
+      "therapeuticArea": "Oncology",
+      "condition": "Advanced Solid Tumor",
+      "phase": "Phase 1",
+      "sponsor": "BeOne Medicines",
       "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 52,
-      "startDate": "2022-08-10",
-      "primaryCompletionDate": "2030-07-31",
-      "baseRate": 0.24,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
+      "enrollment": 105,
+      "startDate": "2025-12-11",
+      "primaryCompletionDate": "2028-11-01",
+      "baseRate": 0.409,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
+      "factorScores": {
+        "sponsorProfile": 4,
+        "trialDesign": 4,
+        "timeline": 4,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (105) is within the typical range for Phase 1.",
+        "timeline": "Planned duration (~35 months) is within a normal range for this phase.",
+        "competitiveDensity": "1319 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 1319,
+      "adjustedProbability": 0.424
+    },
+    {
+      "nctId": "NCT07016126",
+      "title": "D-BACE in Combination With Chemotherapy and Carelizumab for Resectable II-IIIA or Potentially Resectable T3-4N2 Stage IIIB NSCLC",
+      "therapeuticArea": "Oncology",
+      "condition": "NSCLC (Non-small Cell Lung Cancer)",
+      "phase": "Phase 3",
+      "sponsor": "Guangdong Provincial People's Hospital",
+      "sponsorTier": "Academic/Institutional",
+      "enrollment": 70,
+      "startDate": "2024-12-22",
+      "primaryCompletionDate": "2027-12-22",
+      "baseRate": 0.37,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
+      "factorScores": {
+        "sponsorProfile": 3,
+        "trialDesign": 2,
+        "timeline": 4,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
+        "trialDesign": "Enrollment target (70) is notably small for Phase 3 \u2014 may limit statistical power.",
+        "timeline": "Planned duration (~36 months) is within a normal range for this phase.",
+        "competitiveDensity": "1272 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 1272,
+      "adjustedProbability": 0.362
+    },
+    {
+      "nctId": "NCT07361510",
+      "title": "A Study to Evaluate the Efficacy of Pumitamig Versus Pembrolizumab in Participants With Previously Untreated Advanced Non-Small Cell Lung Cancer and PD-L1 \u2265 50%. (ROSETTA Lung-202)",
+      "therapeuticArea": "Oncology",
+      "condition": "Non-Small Cell Lung Cancer (NSCLC)",
+      "phase": "Phase 3",
+      "sponsor": "Bristol-Myers Squibb",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 750,
+      "startDate": "2026-03-12",
+      "primaryCompletionDate": "2031-10-14",
+      "baseRate": 0.37,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020; BMT/BIO oncology-specific Phase II/III study",
       "factorScores": {
         "sponsorProfile": 4,
         "trialDesign": 4,
         "timeline": 2,
-        "competitiveDensity": 4
+        "competitiveDensity": 2
       },
       "factorNotes": {
         "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (52) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~95 months) is unusually long \u2014 longer timelines carry more execution risk.",
-        "competitiveDensity": "Only 13 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
+        "trialDesign": "Enrollment target (750) is within the typical range for Phase 3.",
+        "timeline": "Planned duration (~67 months) is unusually long \u2014 longer timelines carry more execution risk.",
+        "competitiveDensity": "1272 actively recruiting trials exist for this condition \u2014 a crowded field."
       },
-      "competitiveTrialCount": 13,
-      "adjustedProbability": 0.255
+      "competitiveTrialCount": 1272,
+      "adjustedProbability": 0.37
     },
     {
-      "nctId": "NCT06638944",
-      "title": "Wearable Biofeedback for Swallowing Disorders Rehabilitation in Stroke and Parkinson Disease",
+      "nctId": "NCT02693535",
+      "title": "TAPUR: Testing the Use of Food and Drug Administration (FDA) Approved Drugs That Target a Specific Abnormality in a Tumor Gene in People With Advanced Stage Cancer",
       "therapeuticArea": "Cardiovascular",
-      "condition": "Dysphagia",
+      "condition": "Lymphoma, Non-Hodgkin",
       "phase": "Phase 2",
-      "sponsor": "University of Illinois at Urbana-Champaign",
+      "sponsor": "American Society of Clinical Oncology",
       "sponsorTier": "Academic/Institutional",
-      "enrollment": 120,
-      "startDate": "2025-07-22",
-      "primaryCompletionDate": "2028-12-31",
+      "enrollment": 4200,
+      "startDate": "2016-03-14",
+      "primaryCompletionDate": "2027-12-31",
       "baseRate": 0.24,
       "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
       "factorScores": {
         "sponsorProfile": 3,
-        "trialDesign": 4,
-        "timeline": 4,
+        "trialDesign": 5,
+        "timeline": 2,
         "competitiveDensity": 2
       },
       "factorNotes": {
         "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
-        "trialDesign": "Enrollment target (120) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~41 months) is within a normal range for this phase.",
-        "competitiveDensity": "242 actively recruiting trials exist for this condition \u2014 a crowded field."
+        "trialDesign": "Enrollment target (4200) is large for Phase 2 \u2014 typically signals higher confidence investment.",
+        "timeline": "Planned duration (~141 months) is unusually long \u2014 longer timelines carry more execution risk.",
+        "competitiveDensity": "961 actively recruiting trials exist for this condition \u2014 a crowded field."
       },
-      "competitiveTrialCount": 242,
-      "adjustedProbability": 0.247
+      "competitiveTrialCount": 961,
+      "adjustedProbability": 0.24
     },
     {
-      "nctId": "NCT07581704",
-      "title": "Sirolimus Pre-conditioning on T Cell Activity and T-cell Engaging Bispecific Antibody Efficacy in Multiple Myeloma",
+      "nctId": "NCT04273607",
+      "title": "Anticoagulation-free VV ECMO for Acute Respiratory Failure",
       "therapeuticArea": "Cardiovascular",
-      "condition": "Multiple Myeloma",
-      "phase": "Phase 1",
-      "sponsor": "Christopher Strouse",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 10,
-      "startDate": "2026-06-01",
-      "primaryCompletionDate": "2029-06-01",
-      "baseRate": 0.52,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (10) is within the typical range for Phase 1.",
-        "timeline": "Planned duration (~36 months) is within a normal range for this phase.",
-        "competitiveDensity": "575 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 575,
-      "adjustedProbability": 0.535
-    },
-    {
-      "nctId": "NCT06866964",
-      "title": "A Single-arm, Phase II Clinical Trial of ASPIRin to prEvent Venous Thromboembolism in Patients With Advanced Germ Cell Tumors Receiving Chemotherapy",
-      "therapeuticArea": "Cardiovascular",
-      "condition": "Germ Cell Tumor",
-      "phase": "Phase 2",
-      "sponsor": "Wake Forest University Health Sciences",
-      "sponsorTier": "Academic/Institutional",
-      "enrollment": 35,
-      "startDate": "2025-08-28",
-      "primaryCompletionDate": "2029-08",
-      "baseRate": 0.24,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
-      "factorScores": {
-        "sponsorProfile": 3,
-        "trialDesign": 2,
-        "timeline": 4,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
-        "trialDesign": "Enrollment target (35) is notably small for Phase 2 \u2014 may limit statistical power.",
-        "timeline": "Planned duration (~48 months) is within a normal range for this phase.",
-        "competitiveDensity": "1291 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 1291,
-      "adjustedProbability": 0.232
-    },
-    {
-      "nctId": "NCT07104487",
-      "title": "[18F]AlF-NOTA-octreotide PET/MRI in Carotid Artery Disease",
-      "therapeuticArea": "Cardiovascular",
-      "condition": "Stroke (CVA) or TIA",
-      "phase": "Phase 2",
-      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 24,
-      "startDate": "2025-03-18",
-      "primaryCompletionDate": "2026-09",
-      "baseRate": 0.24,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 2,
-        "timeline": 4,
-        "competitiveDensity": 4
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (24) is notably small for Phase 2 \u2014 may limit statistical power.",
-        "timeline": "Planned duration (~18 months) is within a normal range for this phase.",
-        "competitiveDensity": "Only 40 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
-      },
-      "competitiveTrialCount": 40,
-      "adjustedProbability": 0.255
-    },
-    {
-      "nctId": "NCT07192952",
-      "title": "A Study to Learn More About How Safe Finerenone is, When it is Taken for a Longer Time With Standard Treatment, in Children and Young Adults With Heart Failure and Left Ventricular Systolic Dysfunction",
-      "therapeuticArea": "Cardiovascular",
-      "condition": "Left Ventricular Systolic Dysfunction",
+      "condition": "Extracorporeal Membrane Oxygenation Complication",
       "phase": "Phase 3",
-      "sponsor": "Bayer",
+      "sponsor": "Damian Ratano",
       "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 117,
-      "startDate": "2026-06-01",
-      "primaryCompletionDate": "2030-12-30",
+      "enrollment": 40,
+      "startDate": "2022-09-01",
+      "primaryCompletionDate": "2026-12-31",
       "baseRate": 0.45,
       "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
       "factorScores": {
@@ -626,332 +514,248 @@
       },
       "factorNotes": {
         "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (117) is notably small for Phase 3 \u2014 may limit statistical power.",
-        "timeline": "Planned duration (~54 months) is within a normal range for this phase.",
-        "competitiveDensity": "Only 20 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
+        "trialDesign": "Enrollment target (40) is notably small for Phase 3 \u2014 may limit statistical power.",
+        "timeline": "Planned duration (~51 months) is within a normal range for this phase.",
+        "competitiveDensity": "Only 29 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
       },
-      "competitiveTrialCount": 20,
+      "competitiveTrialCount": 29,
       "adjustedProbability": 0.465
     },
     {
-      "nctId": "NCT06600178",
-      "title": "Study Targeting Myocardial Perfusion and Symptom Relief in Women With SGLT2 Inhibitors (STRONG)",
+      "nctId": "NCT06581640",
+      "title": "Chimeric Antigen Receptor Modified T Cells Targeting BCMA for the Treatment of Relapsed/Refractory Multiple Myeloma",
       "therapeuticArea": "Cardiovascular",
-      "condition": "Angina Patients With Non-obstructive Coronary Artery Disease",
-      "phase": "Phase 1",
-      "sponsor": "University of Virginia",
+      "condition": "Multiple Myeloma",
+      "phase": "Phase 2",
+      "sponsor": "The First Affiliated Hospital of Xiamen University",
       "sponsorTier": "Academic/Institutional",
-      "enrollment": 150,
+      "enrollment": 5,
+      "startDate": "2024-09-24",
+      "primaryCompletionDate": "2028-12-31",
+      "baseRate": 0.24,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
+      "factorScores": {
+        "sponsorProfile": 3,
+        "trialDesign": 2,
+        "timeline": 4,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
+        "trialDesign": "Enrollment target (5) is notably small for Phase 2 \u2014 may limit statistical power.",
+        "timeline": "Planned duration (~51 months) is within a normal range for this phase.",
+        "competitiveDensity": "574 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 574,
+      "adjustedProbability": 0.232
+    },
+    {
+      "nctId": "NCT06979362",
+      "title": "A Research Study Comparing Different Doses of CDR132L With Placebo on the Structure and Function of the Heart in People With Heart Failure With Preserved Ejection Fraction and Left Ventricular Hypertrophy",
+      "therapeuticArea": "Cardiovascular",
+      "condition": "Heart Failure",
+      "phase": "Phase 2",
+      "sponsor": "Novo Nordisk A/S",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 200,
       "startDate": "2025-06-27",
+      "primaryCompletionDate": "2027-11-16",
+      "baseRate": 0.24,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
+      "factorScores": {
+        "sponsorProfile": 4,
+        "trialDesign": 4,
+        "timeline": 4,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (200) is within the typical range for Phase 2.",
+        "timeline": "Planned duration (~29 months) is within a normal range for this phase.",
+        "competitiveDensity": "997 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 997,
+      "adjustedProbability": 0.255
+    },
+    {
+      "nctId": "NCT07052903",
+      "title": "TRITON-CM: A Study to Evaluate Nucresiran in Patients With Transthyretin Amyloidosis With Cardiomyopathy",
+      "therapeuticArea": "Cardiovascular",
+      "condition": "Transthyretin Amyloidosis With Cardiomyopathy",
+      "phase": "Phase 3",
+      "sponsor": "Alnylam Pharmaceuticals",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 1750,
+      "startDate": "2025-07-02",
+      "primaryCompletionDate": "2030-05-28",
+      "baseRate": 0.45,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
+      "factorScores": {
+        "sponsorProfile": 4,
+        "trialDesign": 4,
+        "timeline": 4,
+        "competitiveDensity": 4
+      },
+      "factorNotes": {
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (1750) is within the typical range for Phase 3.",
+        "timeline": "Planned duration (~58 months) is within a normal range for this phase.",
+        "competitiveDensity": "Only 17 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
+      },
+      "competitiveTrialCount": 17,
+      "adjustedProbability": 0.48
+    },
+    {
+      "nctId": "NCT07333261",
+      "title": "Study of BMS-986453 in Newly Diagnosed Multiple Myeloma",
+      "therapeuticArea": "Cardiovascular",
+      "condition": "Multiple Myeloma",
+      "phase": "Phase 1",
+      "sponsor": "Susan Bal",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 25,
+      "startDate": "2026-02-09",
+      "primaryCompletionDate": "2031-12",
+      "baseRate": 0.52,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
+      "factorScores": {
+        "sponsorProfile": 4,
+        "trialDesign": 4,
+        "timeline": 2,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (25) is within the typical range for Phase 1.",
+        "timeline": "Planned duration (~70 months) is unusually long \u2014 longer timelines carry more execution risk.",
+        "competitiveDensity": "574 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 574,
+      "adjustedProbability": 0.52
+    },
+    {
+      "nctId": "NCT07200102",
+      "title": "Selinexor Maintenance Post CAR-T Cell Therapy for Multiple Myeloma",
+      "therapeuticArea": "Cardiovascular",
+      "condition": "Multiple Myeloma",
+      "phase": "Phase 1",
+      "sponsor": "Washington University School of Medicine",
+      "sponsorTier": "Academic/Institutional",
+      "enrollment": 20,
+      "startDate": "2026-03-17",
+      "primaryCompletionDate": "2029-04-30",
+      "baseRate": 0.52,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
+      "factorScores": {
+        "sponsorProfile": 3,
+        "trialDesign": 4,
+        "timeline": 4,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
+        "trialDesign": "Enrollment target (20) is within the typical range for Phase 1.",
+        "timeline": "Planned duration (~37 months) is within a normal range for this phase.",
+        "competitiveDensity": "574 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 574,
+      "adjustedProbability": 0.527
+    },
+    {
+      "nctId": "NCT06174753",
+      "title": "Dapagliflozin in STEMI",
+      "therapeuticArea": "Cardiovascular",
+      "condition": "ST Elevation Myocardial Infarction",
+      "phase": "Phase 3",
+      "sponsor": "Ottawa Heart Institute Research Corporation",
+      "sponsorTier": "Academic/Institutional",
+      "enrollment": 256,
+      "startDate": "2025-01-20",
+      "primaryCompletionDate": "2027-06",
+      "baseRate": 0.45,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
+      "factorScores": {
+        "sponsorProfile": 3,
+        "trialDesign": 4,
+        "timeline": 4,
+        "competitiveDensity": 3
+      },
+      "factorNotes": {
+        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
+        "trialDesign": "Enrollment target (256) is within the typical range for Phase 3.",
+        "timeline": "Planned duration (~29 months) is within a normal range for this phase.",
+        "competitiveDensity": "125 actively recruiting trials exist for this condition \u2014 moderately competitive."
+      },
+      "competitiveTrialCount": 125,
+      "adjustedProbability": 0.465
+    },
+    {
+      "nctId": "NCT06700395",
+      "title": "A Clinical Study of TQB2029 for Injection in Subjects With Multiple Myeloma",
+      "therapeuticArea": "Cardiovascular",
+      "condition": "Multiple Myeloma",
+      "phase": "Phase 1",
+      "sponsor": "Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 136,
+      "startDate": "2024-11-28",
       "primaryCompletionDate": "2026-03",
       "baseRate": 0.52,
       "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
       "factorScores": {
-        "sponsorProfile": 3,
+        "sponsorProfile": 4,
         "trialDesign": 5,
         "timeline": 4,
-        "competitiveDensity": 4
+        "competitiveDensity": 2
       },
       "factorNotes": {
-        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
-        "trialDesign": "Enrollment target (150) is large for Phase 1 \u2014 typically signals higher confidence investment.",
-        "timeline": "Planned duration (~9 months) is within a normal range for this phase.",
-        "competitiveDensity": "Only 8 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (136) is large for Phase 1 \u2014 typically signals higher confidence investment.",
+        "timeline": "Planned duration (~16 months) is within a normal range for this phase.",
+        "competitiveDensity": "574 actively recruiting trials exist for this condition \u2014 a crowded field."
       },
-      "competitiveTrialCount": 8,
-      "adjustedProbability": 0.55
+      "competitiveTrialCount": 574,
+      "adjustedProbability": 0.542
     },
     {
-      "nctId": "NCT03314974",
-      "title": "Myeloablative Allo HSCT With Related or Unrelated Donor for Heme Disorders",
+      "nctId": "NCT06875973",
+      "title": "Pelacarsen Roll-over Extension Program",
       "therapeuticArea": "Cardiovascular",
-      "condition": "Acute Leukemia",
-      "phase": "Phase 2",
-      "sponsor": "Masonic Cancer Center, University of Minnesota",
-      "sponsorTier": "Academic/Institutional",
-      "enrollment": 300,
-      "startDate": "2018-03-30",
-      "primaryCompletionDate": "2027-06-10",
-      "baseRate": 0.24,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
-      "factorScores": {
-        "sponsorProfile": 3,
-        "trialDesign": 4,
-        "timeline": 2,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
-        "trialDesign": "Enrollment target (300) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~111 months) is unusually long \u2014 longer timelines carry more execution risk.",
-        "competitiveDensity": "969 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 969,
-      "adjustedProbability": 0.232
-    },
-    {
-      "nctId": "NCT07681596",
-      "title": "A Modular, Phase I/II, Multicentre Study to Evaluate AZD4045, in Participants With Relapsed or Refractory Multiple Myeloma",
-      "therapeuticArea": "Cardiovascular",
-      "condition": "Relapsed or Refractory Multiple Myeloma",
-      "phase": "Phase 2",
-      "sponsor": "AstraZeneca",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 101,
-      "startDate": "2026-07-27",
-      "primaryCompletionDate": "2031-03-06",
-      "baseRate": 0.24,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 3
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (101) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~56 months) is within a normal range for this phase.",
-        "competitiveDensity": "99 actively recruiting trials exist for this condition \u2014 moderately competitive."
-      },
-      "competitiveTrialCount": 99,
-      "adjustedProbability": 0.263
-    },
-    {
-      "nctId": "NCT07304817",
-      "title": "Comparative Study on the Mode of Action of Vicadrostat and Spironolactone on Protein Profiles and Renal Hemodynamic Effects (COMPARE-VS)",
-      "therapeuticArea": "Cardiovascular",
-      "condition": "CKD",
-      "phase": "Phase 2",
-      "sponsor": "University Medical Center Groningen",
-      "sponsorTier": "Academic/Institutional",
-      "enrollment": 100,
-      "startDate": "2026-05-12",
-      "primaryCompletionDate": "2028-02",
-      "baseRate": 0.24,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
-      "factorScores": {
-        "sponsorProfile": 3,
-        "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
-        "trialDesign": "Enrollment target (100) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~21 months) is within a normal range for this phase.",
-        "competitiveDensity": "431 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 431,
-      "adjustedProbability": 0.247
-    },
-    {
-      "nctId": "NCT05336695",
-      "title": "Assess Fibrin in Brains With AD/ADRD",
-      "therapeuticArea": "Neurology",
-      "condition": "Alzheimer Disease",
-      "phase": "Phase 2",
-      "sponsor": "Massachusetts General Hospital",
-      "sponsorTier": "Academic/Institutional",
-      "enrollment": 30,
-      "startDate": "2022-03-29",
-      "primaryCompletionDate": "2026-09-28",
-      "baseRate": 0.348,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
-      "factorScores": {
-        "sponsorProfile": 3,
-        "trialDesign": 2,
-        "timeline": 4,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
-        "trialDesign": "Enrollment target (30) is notably small for Phase 2 \u2014 may limit statistical power.",
-        "timeline": "Planned duration (~54 months) is within a normal range for this phase.",
-        "competitiveDensity": "624 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 624,
-      "adjustedProbability": 0.34
-    },
-    {
-      "nctId": "NCT05462106",
-      "title": "A Study to Assess the Effects of ACI-24.060 in Alzheimer's Disease and in Down Syndrome (ABATE Study)",
-      "therapeuticArea": "Neurology",
-      "condition": "Amyloid Plaque",
-      "phase": "Phase 2",
-      "sponsor": "AC Immune SA",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 304,
-      "startDate": "2022-06-21",
-      "primaryCompletionDate": "2029-04",
-      "baseRate": 0.348,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 4,
-        "timeline": 2,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (304) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~82 months) is unusually long \u2014 longer timelines carry more execution risk.",
-        "competitiveDensity": "221 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 221,
-      "adjustedProbability": 0.348
-    },
-    {
-      "nctId": "NCT05446584",
-      "title": "Pathways Relating Amnestic MCI to a Mild Traumatic Brain Injury History",
-      "therapeuticArea": "Neurology",
-      "condition": "Mild Cognitive Impairment",
-      "phase": "Phase 2",
-      "sponsor": "University of Texas Southwestern Medical Center",
-      "sponsorTier": "Academic/Institutional",
-      "enrollment": 75,
-      "startDate": "2023-04-20",
-      "primaryCompletionDate": "2027-05-01",
-      "baseRate": 0.348,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
-      "factorScores": {
-        "sponsorProfile": 3,
-        "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
-        "trialDesign": "Enrollment target (75) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~49 months) is within a normal range for this phase.",
-        "competitiveDensity": "347 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 347,
-      "adjustedProbability": 0.355
-    },
-    {
-      "nctId": "NCT07279740",
-      "title": "Combined Brain Stimulation and Methylphenidate Treatment for Apathy in Dementia",
-      "therapeuticArea": "Neurology",
-      "condition": "Alzheimer s Disease",
-      "phase": "Phase 2",
-      "sponsor": "Sunnybrook Health Sciences Centre",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 12,
-      "startDate": "2026-01",
-      "primaryCompletionDate": "2027-10-01",
-      "baseRate": 0.348,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 2,
-        "timeline": 4,
-        "competitiveDensity": 3
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (12) is notably small for Phase 2 \u2014 may limit statistical power.",
-        "timeline": "Planned duration (~21 months) is within a normal range for this phase.",
-        "competitiveDensity": "62 actively recruiting trials exist for this condition \u2014 moderately competitive."
-      },
-      "competitiveTrialCount": 62,
-      "adjustedProbability": 0.355
-    },
-    {
-      "nctId": "NCT06585384",
-      "title": "Safety of a Strategy Combining Etanercept Administration With Repeated Contrast Ultrasound in Patients With Alzheimer's Disease",
-      "therapeuticArea": "Neurology",
-      "condition": "Alzheimer Disease",
-      "phase": "Phase 1",
-      "sponsor": "Fondation Ophtalmologique Adolphe de Rothschild",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 5,
-      "startDate": "2025-04-15",
-      "primaryCompletionDate": "2028-06",
-      "baseRate": 0.52,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 2,
-        "timeline": 4,
-        "competitiveDensity": 2
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (5) is notably small for Phase 1 \u2014 may limit statistical power.",
-        "timeline": "Planned duration (~38 months) is within a normal range for this phase.",
-        "competitiveDensity": "624 actively recruiting trials exist for this condition \u2014 a crowded field."
-      },
-      "competitiveTrialCount": 624,
-      "adjustedProbability": 0.52
-    },
-    {
-      "nctId": "NCT06126224",
-      "title": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-2)",
-      "therapeuticArea": "Neurology",
-      "condition": "Psychosis Associated With Alzheimer's Disease",
+      "condition": "Atherosclerotic Cardiovascular Disease",
       "phase": "Phase 3",
-      "sponsor": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company",
+      "sponsor": "Novartis Pharmaceuticals",
       "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 500,
-      "startDate": "2023-08-28",
-      "primaryCompletionDate": "2026-12-09",
-      "baseRate": 0.54,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
+      "enrollment": 599,
+      "startDate": "2025-05-19",
+      "primaryCompletionDate": "2030-12-08",
+      "baseRate": 0.45,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 (Phase 1 avg); BMT/BIO cardiovascular-specific study",
       "factorScores": {
         "sponsorProfile": 4,
         "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 4
+        "timeline": 2,
+        "competitiveDensity": 2
       },
       "factorNotes": {
         "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (500) is within the typical range for Phase 3.",
-        "timeline": "Planned duration (~40 months) is within a normal range for this phase.",
-        "competitiveDensity": "Only 7 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
+        "trialDesign": "Enrollment target (599) is within the typical range for Phase 3.",
+        "timeline": "Planned duration (~67 months) is unusually long \u2014 longer timelines carry more execution risk.",
+        "competitiveDensity": "429 actively recruiting trials exist for this condition \u2014 a crowded field."
       },
-      "competitiveTrialCount": 7,
-      "adjustedProbability": 0.57
+      "competitiveTrialCount": 429,
+      "adjustedProbability": 0.45
     },
     {
-      "nctId": "NCT07252440",
-      "title": "A Study to Evaluate the Efficacy and Safety of TTYP01 Tablets in Early Symptomatic Alzheimer's Disease",
+      "nctId": "NCT05667649",
+      "title": "Autologous Activated Adipose-derived Stem Cells (RB-ADSC) Injected Directly Into the Brain for Mild to Moderate Alzheimer's Disease",
       "therapeuticArea": "Neurology",
-      "condition": "AD",
-      "phase": "Phase 2",
-      "sponsor": "Shanghai Auzone Biological Technology Co., Ltd.",
-      "sponsorTier": "Industry (biotech/pharma)",
-      "enrollment": 180,
-      "startDate": "2025-12-19",
-      "primaryCompletionDate": "2028-10-23",
-      "baseRate": 0.348,
-      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
-      "factorScores": {
-        "sponsorProfile": 4,
-        "trialDesign": 4,
-        "timeline": 4,
-        "competitiveDensity": 3
-      },
-      "factorNotes": {
-        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
-        "trialDesign": "Enrollment target (180) is within the typical range for Phase 2.",
-        "timeline": "Planned duration (~34 months) is within a normal range for this phase.",
-        "competitiveDensity": "195 actively recruiting trials exist for this condition \u2014 moderately competitive."
-      },
-      "competitiveTrialCount": 195,
-      "adjustedProbability": 0.37
-    },
-    {
-      "nctId": "NCT07580703",
-      "title": "A Phase I Study of [18F]Flortaucipir PET Imaging in Chinese Subjects: Safety, Pharmacokinetics, Biodistribution, Radiation Dosimetry, and Preliminary Diagnostic Efficacy",
-      "therapeuticArea": "Neurology",
-      "condition": "AD - Alzheimer's Disease",
+      "condition": "Alzheimer Disease",
       "phase": "Phase 1",
-      "sponsor": "Eli Radiopharma",
+      "sponsor": "Regeneration Biomedical, Inc.",
       "sponsorTier": "Industry (biotech/pharma)",
       "enrollment": 18,
-      "startDate": "2026-04-23",
-      "primaryCompletionDate": "2026-12-31",
+      "startDate": "2023-08-14",
+      "primaryCompletionDate": "2026-08",
       "baseRate": 0.52,
       "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
       "factorScores": {
@@ -963,11 +767,207 @@
       "factorNotes": {
         "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
         "trialDesign": "Enrollment target (18) is within the typical range for Phase 1.",
-        "timeline": "Planned duration (~8 months) is within a normal range for this phase.",
-        "competitiveDensity": "420 actively recruiting trials exist for this condition \u2014 a crowded field."
+        "timeline": "Planned duration (~36 months) is within a normal range for this phase.",
+        "competitiveDensity": "624 actively recruiting trials exist for this condition \u2014 a crowded field."
       },
-      "competitiveTrialCount": 420,
+      "competitiveTrialCount": 624,
       "adjustedProbability": 0.535
+    },
+    {
+      "nctId": "NCT07284472",
+      "title": "Safety and Efficacy of EXV-802 and EXV-801 in the Treatment of Agitation in Alzheimer's Disease Dementia",
+      "therapeuticArea": "Neurology",
+      "condition": "Agitation Associated With Alzheimer's Disease Dementia",
+      "phase": "Phase 3",
+      "sponsor": "Exciva GmbH",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 300,
+      "startDate": "2026-02-02",
+      "primaryCompletionDate": "2029-01",
+      "baseRate": 0.54,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
+      "factorScores": {
+        "sponsorProfile": 4,
+        "trialDesign": 4,
+        "timeline": 4,
+        "competitiveDensity": 4
+      },
+      "factorNotes": {
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (300) is within the typical range for Phase 3.",
+        "timeline": "Planned duration (~35 months) is within a normal range for this phase.",
+        "competitiveDensity": "Only 8 actively recruiting trials exist for this condition \u2014 relatively uncrowded."
+      },
+      "competitiveTrialCount": 8,
+      "adjustedProbability": 0.57
+    },
+    {
+      "nctId": "NCT07105709",
+      "title": "Open-label Extension Study in Participants With Early Alzheimer's Disease",
+      "therapeuticArea": "Neurology",
+      "condition": "Alzheimer's Disease",
+      "phase": "Phase 2",
+      "sponsor": "GlaxoSmithKline",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 220,
+      "startDate": "2025-08-14",
+      "primaryCompletionDate": "2028-09-15",
+      "baseRate": 0.348,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
+      "factorScores": {
+        "sponsorProfile": 4,
+        "trialDesign": 4,
+        "timeline": 4,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (220) is within the typical range for Phase 2.",
+        "timeline": "Planned duration (~37 months) is within a normal range for this phase.",
+        "competitiveDensity": "604 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 604,
+      "adjustedProbability": 0.363
+    },
+    {
+      "nctId": "NCT06850597",
+      "title": "Efficacy and Safety of Dimethyl Fumarate Among Patients with Mild Cognitive Impairment and Dementia Due to Alzheimer's Disease",
+      "therapeuticArea": "Neurology",
+      "condition": "MCI",
+      "phase": "Phase 2",
+      "sponsor": "Medical University of Lodz",
+      "sponsorTier": "Academic/Institutional",
+      "enrollment": 30,
+      "startDate": "2024-10-28",
+      "primaryCompletionDate": "2027-12-31",
+      "baseRate": 0.348,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
+      "factorScores": {
+        "sponsorProfile": 3,
+        "trialDesign": 2,
+        "timeline": 4,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
+        "trialDesign": "Enrollment target (30) is notably small for Phase 2 \u2014 may limit statistical power.",
+        "timeline": "Planned duration (~38 months) is within a normal range for this phase.",
+        "competitiveDensity": "341 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 341,
+      "adjustedProbability": 0.34
+    },
+    {
+      "nctId": "NCT04516057",
+      "title": "Nabilone for Agitation Blinded Intervention Trial",
+      "therapeuticArea": "Neurology",
+      "condition": "Alzheimer Disease",
+      "phase": "Phase 3",
+      "sponsor": "Sunnybrook Health Sciences Centre",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 112,
+      "startDate": "2021-02-01",
+      "primaryCompletionDate": "2027-04",
+      "baseRate": 0.54,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
+      "factorScores": {
+        "sponsorProfile": 4,
+        "trialDesign": 2,
+        "timeline": 2,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (112) is notably small for Phase 3 \u2014 may limit statistical power.",
+        "timeline": "Planned duration (~74 months) is unusually long \u2014 longer timelines carry more execution risk.",
+        "competitiveDensity": "624 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 624,
+      "adjustedProbability": 0.525
+    },
+    {
+      "nctId": "NCT07399171",
+      "title": "Study to Evaluate the Effect of HT-4253 for the Prevention of Alzheimer's Disease in APOE4 Carriers",
+      "therapeuticArea": "Neurology",
+      "condition": "Alzheimers Disease",
+      "phase": "Phase 2",
+      "sponsor": "Halia Therapeutics, Inc.",
+      "sponsorTier": "Industry (biotech/pharma)",
+      "enrollment": 112,
+      "startDate": "2026-05-12",
+      "primaryCompletionDate": "2028-02",
+      "baseRate": 0.348,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
+      "factorScores": {
+        "sponsorProfile": 4,
+        "trialDesign": 4,
+        "timeline": 4,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Industry-sponsored \u2014 typically better-resourced for multi-site execution; track record varies by company, not separately verified here.",
+        "trialDesign": "Enrollment target (112) is within the typical range for Phase 2.",
+        "timeline": "Planned duration (~21 months) is within a normal range for this phase.",
+        "competitiveDensity": "600 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 600,
+      "adjustedProbability": 0.363
+    },
+    {
+      "nctId": "NCT06582706",
+      "title": "Nicotinic Acid for the Treatment of Alzheimer's Disease",
+      "therapeuticArea": "Neurology",
+      "condition": "Alzheimer Disease",
+      "phase": "Phase 2",
+      "sponsor": "Indiana University",
+      "sponsorTier": "Academic/Institutional",
+      "enrollment": 30,
+      "startDate": "2024-12-19",
+      "primaryCompletionDate": "2026-12",
+      "baseRate": 0.348,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
+      "factorScores": {
+        "sponsorProfile": 3,
+        "trialDesign": 2,
+        "timeline": 4,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
+        "trialDesign": "Enrollment target (30) is notably small for Phase 2 \u2014 may limit statistical power.",
+        "timeline": "Planned duration (~24 months) is within a normal range for this phase.",
+        "competitiveDensity": "624 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 624,
+      "adjustedProbability": 0.34
+    },
+    {
+      "nctId": "NCT06530732",
+      "title": "Deep Cervical Lymphatlc-Venous Anastomosis Surgery for the Treatment of Alzheimer's Disease: A Pilot Study (DIVA Study)",
+      "therapeuticArea": "Neurology",
+      "condition": "Alzheimer's Disease",
+      "phase": "Phase 3",
+      "sponsor": "Zhejiang Provincial People's Hospital",
+      "sponsorTier": "Academic/Institutional",
+      "enrollment": 60,
+      "startDate": "2024-07-01",
+      "primaryCompletionDate": "2026-06-30",
+      "baseRate": 0.54,
+      "baseRateSource": "BIO/Informa/QLS 2011-2020 average; BMT/BIO non-oncology general rates (neurology-specific rate not separately cited)",
+      "factorScores": {
+        "sponsorProfile": 3,
+        "trialDesign": 2,
+        "timeline": 4,
+        "competitiveDensity": 2
+      },
+      "factorNotes": {
+        "sponsorProfile": "Academic or hospital-sponsored \u2014 often well-designed but slower to scale multi-site enrollment.",
+        "trialDesign": "Enrollment target (60) is notably small for Phase 3 \u2014 may limit statistical power.",
+        "timeline": "Planned duration (~23 months) is within a normal range for this phase.",
+        "competitiveDensity": "604 actively recruiting trials exist for this condition \u2014 a crowded field."
+      },
+      "competitiveTrialCount": 604,
+      "adjustedProbability": 0.533
     }
   ]
 }
