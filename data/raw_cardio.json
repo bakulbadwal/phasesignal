@@ -3,26 +3,29 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05979051",
-          "briefTitle": "A Study to Evaluate the Efficacy and Safety of SHR-1703 in Subjects With Eosinophilic Granulomatosis With Polyangiitis \uff08EGPA\uff09"
+          "nctId": "NCT06120049",
+          "briefTitle": "[18F]-MFBG Versus [123I]-MIBG and [18F]-PE2I in PD vs. MSA and DLB vs. AD"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2023-11-16"
+            "date": "2024-01-19"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-12"
+            "date": "2026-07"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Guangdong Hengrui Pharmaceutical Co., Ltd"
+            "name": "prof. dr. Koen Van Laere"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Eosinophilic Granulomatosis With Polyangiitis"
+            "Parkinson Disease",
+            "Dementia With Lewy Bodies",
+            "MSA - Multiple System Atrophy",
+            "Alzheimer Disease"
           ]
         },
         "designModule": {
@@ -32,7 +35,7 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 166
+            "count": 113
           }
         }
       }
@@ -40,36 +43,37 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06106945",
-          "briefTitle": "AZD0305 as Monotherapy or in Combination With Anticancer Agents in Participants With Multiple Myeloma"
+          "nctId": "NCT06600178",
+          "briefTitle": "Study Targeting Myocardial Perfusion and Symptom Relief in Women With SGLT2 Inhibitors (STRONG)"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2023-12-05"
+            "date": "2025-07-15"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-08-16"
+            "date": "2027-10-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "AstraZeneca"
+            "name": "University of Virginia"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Multiple Myeloma"
+            "Angina Patients With Non-obstructive Coronary Artery Disease",
+            "Coronary Microvascular Disease",
+            "Coronary Microvascular Dysfunction (CMD)"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE1",
-            "PHASE2"
+            "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 226
+            "count": 150
           }
         }
       }
@@ -77,100 +81,30 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07375953",
-          "briefTitle": "Repeated Intravenous Thrombolysis for Ischemic Stroke Within 3.0 Hours of Onset With Tenecteplase (RITIS-TNK)"
+          "nctId": "NCT06526533",
+          "briefTitle": "RECOMMEND Platform Trial"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-03-25"
+            "date": "2026-03-23"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-12-30"
+            "date": "2028-06"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "General Hospital of Shenyang Military Region"
+            "name": "Australian and New Zealand Intensive Care Research Centre"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Ischemic Stroke"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 120
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05847569",
-          "briefTitle": "Alternate Doses and Dosing Schedules of Belantamab Mafodotin for Treatment of Triple-Class Refractory Multiple Myeloma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-01-04"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2029-06-29"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Mayo Clinic"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Recurrent Multiple Myeloma",
-            "Refractory Multiple Myeloma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 62
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05895838",
-          "briefTitle": "The Danish Out-of-Hospital Cardiac Arrest Study"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-06-16"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-09"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Christian Hassager"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Out-Of-Hospital Cardiac Arrest",
-            "Post-Cardiac Arrest Syndrome"
+            "Extracorporeal Membrane Oxygenation Complication",
+            "ARDS (Acute Respiratory Distress Syndrome)",
+            "Intensive Care Medicine",
+            "Cardiac Arrest (CA)",
+            "Critical Illness"
           ]
         },
         "designModule": {
@@ -179,7 +113,7 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 1000
+            "count": 600
           }
         }
       }
@@ -187,27 +121,28 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05305911",
-          "briefTitle": "Sodium Glucose Co-Transporter 2 (SGLT2) and STEMI"
+          "nctId": "NCT07223385",
+          "briefTitle": "High Cardiovascular Risk Intervention With Cardio-Oncology Consultation for Prostate Cancer Following Androgen Receptor Pathway Inhibitor (ARPI) Therapy (Heart-Safe)"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2022-08-03"
+            "date": "2026-08-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-12"
+            "date": "2030-08"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Minneapolis Heart Institute Foundation"
+            "name": "Cedars-Sinai Medical Center"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Heart Attack",
-            "Enlarged Heart"
+            "Prostate Cancer (Diagnosis)",
+            "Prostate Cancer Stage IV",
+            "CV Risk"
           ]
         },
         "designModule": {
@@ -216,7 +151,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 81
+            "count": 80
           }
         }
       }
@@ -224,28 +159,27 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07604103",
-          "briefTitle": "Analysis of Growth Differentiation Factor 15 (GDF-15), Mid Regional proAdrenomedullin (MR proADM), and Persepsin Levels in Patient in Acute Coronary Syndrome Patients With Pneumonia, With or Without Influenza Vaccination"
+          "nctId": "NCT05943821",
+          "briefTitle": "The Effect of Allopurinol on the Risk of Cardiovascular Events in Patients with Cardiovascular Risk"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-01-01"
+            "date": "2023-09-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-08-30"
+            "date": "2028-07-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "University of Brawijaya"
+            "name": "Poznan University of Medical Sciences"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Acute Coronary Syndromes (ACS)",
-            "Pneumonia",
-            "COPD (Chronic Obstructive Pulmonary Disease)"
+            "Cardiovascular Diseases",
+            "Uric Acid"
           ]
         },
         "designModule": {
@@ -254,7 +188,7 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 60
+            "count": 1116
           }
         }
       }
@@ -262,69 +196,33 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06940297",
-          "briefTitle": "Dasatinib and Quercetin With CAR-T Therapy for the Treatment of Patients With Relapsed or Refractory Multiple Myeloma"
+          "nctId": "NCT06854640",
+          "briefTitle": "A Study to Learn About How Safe BAY 3389934 is, Its Suitable Dose, and How it Affects the Participants With Sepsis Induced Coagulopathy"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-09-18"
+            "date": "2025-03-12"
           },
           "primaryCompletionDateStruct": {
-            "date": "2031-08-15"
+            "date": "2026-12-25"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Mayo Clinic"
+            "name": "Bayer"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Recurrent Multiple Myeloma",
-            "Refractory Multiple Myeloma"
+            "Sepsis",
+            "Coagulopathy"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 44
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06446960",
-          "briefTitle": "The Role of Peripheral Afferents in Modulating Post-stroke Central Pain"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-02-09"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-09-08"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Stroke"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
+            "PHASE1"
           ],
           "enrollmentInfo": {
             "count": 36
@@ -335,26 +233,99 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06228924",
-          "briefTitle": "Open-label, Dose Escalation Study of Safety and Preliminary Efficacy of TN-401 in Adults With PKP2 Mutation-associated ARVC"
+          "nctId": "NCT02947750",
+          "briefTitle": "Neurovascular Transduction During Exercise in Chronic Kidney Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2024-03-26"
+            "date": "2016-10"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-05-01"
+            "date": "2027-04-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Tenaya Therapeutics"
+            "name": "Emory University"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Arrhythmogenic Right Ventricular Cardiomyopathy"
+            "Renal Insufficiency, Chronic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 150
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06517017",
+          "briefTitle": "Use of Isatuximab, Dexamethasone and Lenalidomide in a Go-Slow Fashion for Ultra-Frail Patients With Multiple Myeloma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-10-09"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-11"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Utah"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Multiple Myeloma",
+            "Plasma Cell Leukemia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 40
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04910568",
+          "briefTitle": "A Study Evaluating the Safety, Pharmacokinetics, and Activity of Cevostamab in Participants With Relapsed or Refractory Multiple Myeloma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-07-26"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-12-21"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Genentech, Inc."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Multiple Myeloma"
           ]
         },
         "designModule": {
@@ -363,11 +334,50 @@
             "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 15
+            "count": 186
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06658197",
+          "briefTitle": "Efficacy and Safety of Tenecteplase Bridging Mechanical Thrombectomy for Acute Large Vessel Occlusion Stroke"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-25"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Xuanwu Hospital, Beijing"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Stroke, Ischemic",
+            "Stroke, Acute",
+            "Thrombosis, Brain",
+            "Drug Effect"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 850
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lpwCsjyoLmtmpOQJJxrZ_am2vg"
+  "nextPageToken": "ZVNj7o2Elu8o3lpwW8iooeytmpOQJJxrY_Kl3vg"
 }

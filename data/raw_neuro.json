@@ -3,28 +3,29 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05552157",
-          "briefTitle": "A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          "nctId": "NCT06120049",
+          "briefTitle": "[18F]-MFBG Versus [123I]-MIBG and [18F]-PE2I in PD vs. MSA and DLB vs. AD"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2024-11-22"
+            "date": "2024-01-19"
           },
           "primaryCompletionDateStruct": {
-            "date": "2034-03-30"
+            "date": "2026-07"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Washington University School of Medicine"
+            "name": "prof. dr. Koen Van Laere"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Alzheimers Disease",
-            "Dementia",
-            "Alzheimers Disease, Familial"
+            "Parkinson Disease",
+            "Dementia With Lewy Bodies",
+            "MSA - Multiple System Atrophy",
+            "Alzheimer Disease"
           ]
         },
         "designModule": {
@@ -34,7 +35,7 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 280
+            "count": 113
           }
         }
       }
@@ -42,26 +43,62 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06945614",
-          "briefTitle": "Exploratory Clinical Study to Assess Safety and Efficacy of Xenon Gas Inhalation to Control Neuroinflammation"
+          "nctId": "NCT06041789",
+          "briefTitle": "Effect of Acetylcholinesterase Inhibitors on Bone Metabolism"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-04-16"
+            "date": "2025-02-03"
           },
           "primaryCompletionDateStruct": {
-            "date": "2025-12-31"
+            "date": "2027-09"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "General Biophysics LLC"
+            "name": "Duke University"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Healthy Volunteer Study"
+            "Osteoporosis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 45
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06786676",
+          "briefTitle": "A Phase 1 Clinical Trial to Investigate the Safety, Tolerability, and Pharmacokinetics of AS-S603 in Healthy Participants"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-05-26"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12-31"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Amyloid Solution Inc"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
           ]
         },
         "designModule": {
@@ -70,7 +107,7 @@
             "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 16
+            "count": 88
           }
         }
       }
@@ -78,99 +115,21 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07279740",
-          "briefTitle": "Combined Brain Stimulation and Methylphenidate Treatment for Apathy in Dementia"
+          "nctId": "NCT06887192",
+          "briefTitle": "A Study to Assess the Efficacy and Safety of ML-007C-MA for the Treatment of Alzheimer's Disease Psychosis"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-01"
+            "date": "2025-08-15"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-10-01"
+            "date": "2027-12"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Sunnybrook Health Sciences Centre"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer s Disease",
-            "Alzheimer Dementia (AD)",
-            "Alzheimer Dementia",
-            "Alzheimer Disease",
-            "Apathy",
-            "Apathy in Dementia"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 12
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06781333",
-          "briefTitle": "Human Mesenchymal Stem Cells (hMSC) in Behavioral Problems Due to Alzheimer's Disease."
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-04-29"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-12-15"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Bernard (Barry) Baumel"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease",
-            "Agitation in Dementia"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 8
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05511363",
-          "briefTitle": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2022-08-23"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-10-05"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company"
+            "name": "MapLight Therapeutics"
           }
         },
         "conditionsModule": {
@@ -181,10 +140,46 @@
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 300
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04661280",
+          "briefTitle": "Donepezil Versus Non-drug Treatment in Alzheimer's Disease."
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-02-10"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-08"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Assistance Publique - H\u00f4pitaux de Paris"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease, Early Onset"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 410
+            "count": 240
           }
         }
       }
@@ -192,37 +187,35 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07027072",
-          "briefTitle": "Study to Evaluate the Efficacy and Safety of KDS2010 in Patients With Alzheimer's Disease With Mild Cognitive Impairment and Mild Dementia Due to Alzheimer's Disease"
+          "nctId": "NCT07262645",
+          "briefTitle": "Near-infrared Light Therapy Device for Mild-Moderate Alzheimer's Disease (NirsCure-03A)"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-08-06"
+            "date": "2025-12-10"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-06-30"
+            "date": "2027-07-22"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "NeuroBiogen Co., Ltd"
+            "name": "Danyang Huichuang Medical Equipment Co., Ltd."
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Mild Cognitive Impairment (MCI)",
-            "Mild Dementia",
-            "Alzheimer&#39;s Disease"
+            "Alzheimer s Disease"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE2"
+            "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 114
+            "count": 320
           }
         }
       }
@@ -230,21 +223,58 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07094438",
-          "briefTitle": "Study Safety and Efficacy of Deep Brain Stimulation (DBS) and Cervical Deep Lymphoid-venous Anastomosis (LVA) in Alzheimer's Disease"
+          "nctId": "NCT07284472",
+          "briefTitle": "Safety and Efficacy of EXV-802 and EXV-801 in the Treatment of Agitation in Alzheimer's Disease Dementia"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-01-01"
+            "date": "2026-02-02"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-06"
+            "date": "2029-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Chinese PLA General Hospital"
+            "name": "Exciva GmbH"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Agitation Associated With Alzheimer's Disease Dementia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 300
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06702124",
+          "briefTitle": "A Phase 3 Study of Rotigotine in Combination with Rivastigmine in Mild to Moderate Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-12-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2025-07"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "I.R.C.C.S. Fondazione Santa Lucia"
           }
         },
         "conditionsModule": {
@@ -255,50 +285,14 @@
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE1"
+            "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 98
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06052163",
-          "briefTitle": "Bumetanide in Patients With Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-04-10"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-15"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Stanford University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 40
+            "count": 348
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lpwCsjyoLmtmpOQJJxtYPWj2fMW"
+  "nextPageToken": "ZVNj7o2Elu8o3lpwW8iooeytmpOQJJxuYvKh2fwW"
 }
