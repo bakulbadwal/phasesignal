@@ -3,26 +3,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06807606",
-          "briefTitle": "Optimized Cord Blood Transplantation for the Treatment of Patients With High-risk Hematologic Malignancies Who Have Relapsed After First Allogeneic Stem Cell Transplantation"
+          "nctId": "NCT06878222",
+          "briefTitle": "Iparomlimab and Tuvonralimab Combined With Paclitaxel and Cisplatin as Neoadjuvant Therapy for CC"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-03-03"
+            "date": "2025-03-15"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-11-30"
+            "date": "2028-03-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "M.D. Anderson Cancer Center"
+            "name": "Obstetrics & Gynecology Hospital of Fudan University"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Hematologic Malignancies"
+            "Cervical Cancers"
           ]
         },
         "designModule": {
@@ -39,8 +39,8 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06563999",
-          "briefTitle": "Neoadjuvant Umbrella Trial for Patients With Unresectable Stage III NSCLC Harboring Rare Mutations."
+          "nctId": "NCT06627712",
+          "briefTitle": "SBRT Combined With PD-1 Inhibitor and Chemotherapy in Early-stage TNBC"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
@@ -48,18 +48,167 @@
             "date": "2024-11-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-11-01"
+            "date": "2029-11-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Sun Yat-sen University"
+            "name": "West China Hospital"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Lung Cancer Stage III",
-            "Mutation"
+            "TNBC - Triple-Negative Breast Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 318
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06277219",
+          "briefTitle": "A First-in-Human, Phase 1/2 Study of LAT010 in Patients With Advanced Solid Tumors (LIGHTSPEED-1)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-06-05"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Latticon Antibody Therapeutics, Inc"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Advanced Solid Tumor"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 150
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06925581",
+          "briefTitle": "A Trial of HRS-6768 in Patients With Advanced Solid Tumors"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-04-24"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-04"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Jiangsu HengRui Medicine Co., Ltd."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Advanced Solid Tumors"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 84
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05717712",
+          "briefTitle": "Oncolytic Virus Ad-TD-nsIL12 for Primary Pediatric Diffuse Intrinsic Pontine Glioma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-01-04"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2025-01-04"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Capital Medical University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Oncolytic Virus",
+            "Diffuse Intrinsic Pontine Glioma",
+            "Adverse Drug Event"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 18
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06390319",
+          "briefTitle": "Adding Dasatinib Or Venetoclax To Improve Responses In Children With Newly Diagnosed T-Cell Acute Lymphoblastic Leukemia (ALL) Or Lymphoma (T-LLY) Or Mixed Phenotype Acute Leukemia (MPAL)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-12-27"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "St. Jude Children's Research Hospital"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "T-cell Acute Lymphoblastic Leukemia",
+            "T-cell Lymphoma",
+            "Mixed Phenotype Acute Leukemia"
           ]
         },
         "designModule": {
@@ -68,7 +217,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 120
+            "count": 100
           }
         }
       }
@@ -76,16 +225,236 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06716658",
-          "briefTitle": "JAK1 Inhibitor Golidocitnib for the Treatment of Relapsed/Refractory Indolent T/NK-cell Lymphomas"
+          "nctId": "NCT05516628",
+          "briefTitle": "Deep, Multi-omics Phenotyping to Predict Response, Resistance and Recurrence to Adjuvant Atezolizumab Plus Bevacizumab in Resected Hepatocellular Carcinoma"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2024-12-25"
+            "date": "2023-02-28"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-11-15"
+            "date": "2027-03"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "National Cancer Centre, Singapore"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hepatocellular Carcinoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 30
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06276465",
+          "briefTitle": "Treatment With Darolutamide +/- Radiation Therapy for Patients With a Castration Resistant Cancer and Metastases Detected by Functional Imaging"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-10-07"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-10-15"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "UNICANCER"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostatic Cancer, Castration-Resistant"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 336
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05431257",
+          "briefTitle": "Azacitidine in Combination With Low Dose Intensity Venetoclax in Patients With AML Incl. Explorative AML Profiling"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-05-24"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2031-09-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Copenhagen University Hospital, Rigshospitalet"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Acute Myeloid Leukemia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 117
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06895031",
+          "briefTitle": "Study of JYP0015 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-03-31"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-03-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Guangzhou JOYO Pharma Co., Ltd"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Solid Tumor",
+            "Pancreatic Ductal Adenocarcinoma (PDAC)",
+            "Non-small Cell Lung Cancer (NSCLC)",
+            "Colorectal Cancer (CRC)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 210
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06802757",
+          "briefTitle": "Posaconazole Plus PD-1 Inhibitors and Chemotherapy vs PD-1 Inhibitors and Chemotherapy in Neoadjuvant Therapy for Triple Negative Breast Cancer"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-05-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-06-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Shandong Cancer Hospital and Institute"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Breast Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 72
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06635330",
+          "briefTitle": "Safety and Efficacy of CAR T Cell Therapy in Patients with R/r B-ALL"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-05-20"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-09-22"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Kara Yakhteh Tajhiz Azma Company"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Relapse/Refractory B-cell Acute Lymphoblastic Leukemia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 5
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04440267",
+          "briefTitle": "Efficacy of Acute Lymphoblastic Leukemia-Based Therapy in Treating Patients With Acute Leukemia of Ambiguous Lineage"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2020-07-08"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-06-20"
           }
         },
         "sponsorCollaboratorsModule": {
@@ -95,16 +464,7 @@
         },
         "conditionsModule": {
           "conditions": [
-            "Lymphoma, T-Cell",
-            "NK-LGL Leukemia",
-            "T-LGL Leukemia",
-            "Cutaneous T Cell Lymphoma",
-            "Cutaneous T Cell Lymphoma (CTCL)",
-            "Large Granular Lymphocyte Leukemia",
-            "Large Granular Lymphocytic Leukemia",
-            "Indolent T-Cell Lymphoproliferative Disorder of the Gastrointestinal Tract",
-            "Primary Cutaneous Acral CD8-Positive T-Cell Lymphoma",
-            "Mycosis Fungoides"
+            "Acute Leukemia of Ambiguous Lineage"
           ]
         },
         "designModule": {
@@ -113,7 +473,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 48
+            "count": 50
           }
         }
       }
@@ -121,187 +481,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06567314",
-          "briefTitle": "Phase 2 Study of Ivonescimab in Patients With Cutaneous Squamous Cell Carcinoma"
+          "nctId": "NCT07547553",
+          "briefTitle": "A Phase Ib/II Trial to Evaluate the Efficacy and Safety of HH-009 for the Treatment of FGF19-positive Advanced or Unresectable HCC"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2024-12-02"
+            "date": "2026-05-19"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-09-01"
+            "date": "2028-10-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "M.D. Anderson Cancer Center"
+            "name": "Huahui Health"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Cutaneous Squamous Cell Carcinoma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 24
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06662006",
-          "briefTitle": "Nal-IRI/5-FU/LV Chemotherapy Combined With PD-L1 Inhibitor and Multi-target Anti-angiogenic Small Molecule\u00b1SBRT as Second-line Therapy in Metastatic Pancreatic Cancer Patients"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-03-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-12"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Advanced Metastatic Pancreatic Cancer"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 56
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06791148",
-          "briefTitle": "Low-dose Radiotherapy Combined With Chemotherapy and AK112 as Second-line Treatment in Patients With Advanced G/GEJ Cancer"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-07-10"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-07-10"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Gastric Cancer"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 45
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT04234048",
-          "briefTitle": "Phase 1 Trial of ST-001 nanoFenretinide in Relapsed/Refractory T-cell Non-Hodgkin Lymphoma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-12-18"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "SciTech Development, Inc."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "T-cell Lymphoma",
-            "Cutaneous/Peripheral T-Cell Lymphoma",
-            "Peripheral T-cell Lymphoma",
-            "Peripheral T-Cell Lymphoma, Not Classified",
-            "Primary Cutaneous T-cell Lymphoma",
-            "Cutaneous T-Cell Lymphoma, Unspecified",
-            "Cutaneous T-cell Lymphoma",
-            "Follicular T-Cell Lymphoma",
-            "Angioimmunoblastic T-cell Lymphoma",
-            "S\u00e9zary's Disease",
-            "Mycosis Fungoides"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 46
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT03011814",
-          "briefTitle": "Durvalumab With or Without Lenalidomide in Treating Patients With Relapsed or Refractory Cutaneous or Peripheral T Cell Lymphoma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2017-03-08"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2030-04-14"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "City of Hope Medical Center"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Folliculotropic Mycosis Fungoides",
-            "Recurrent Cutaneous T-Cell Non-Hodgkin Lymphoma",
-            "Recurrent Mycosis Fungoides",
-            "Refractory Cutaneous T-Cell Non-Hodgkin Lymphoma",
-            "Refractory Mycosis Fungoides",
-            "Refractory Peripheral T-Cell Lymphoma, Not Otherwise Specified",
-            "Sezary Syndrome",
-            "Recurrent Mature T- and NK-Cell Non-Hodgkin Lymphoma"
+            "Advanced or Unresectable Hepatocellular Carcinoma (HCC)"
           ]
         },
         "designModule": {
@@ -311,7 +510,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 78
+            "count": 30
           }
         }
       }
@@ -319,207 +518,27 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06812858",
-          "briefTitle": "PD-1 Inhibitors Maintenance for cHL Post-autoHCT"
+          "nctId": "NCT05768139",
+          "briefTitle": "First-in-Human Study of Tersolisib (STX-478) as Monotherapy and in Combination With Other Antineoplastic Agents in Participants With Advanced Solid Tumors"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2024-01-09"
+            "date": "2023-04-17"
           },
           "primaryCompletionDateStruct": {
-            "date": "2029-05"
+            "date": "2030-07"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "St. Petersburg State Pavlov Medical University"
+            "name": "Eli Lilly and Company"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Hodgkin Lymphoma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 83
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07130032",
-          "briefTitle": "Efficacy And Safety Of Anti-PD-1/PD-L1 Antibodies In Combination With Bevacizumab And Metronomic Cyclophosphamide In Patients With Non-Small Cell Lung Cancer And Cutaneous Melanoma Previously Treated With Immune Checkpoint Blockade"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-08-14"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2025-08-14"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "EuroCityClinic LLC"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Metastatic Non-small Cell Lung Cancer (NSCLC)",
-            "Metastatic Cutaneous Melanoma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 90
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07627906",
-          "briefTitle": "Ketofol Versus Ketodex for POD Prophylaxis in Elderly Cancer Surgery"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-07"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Cairo University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Postoperative Delirium (POD)"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 180
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06340204",
-          "briefTitle": "Weekly Irinotecan Liposomes in Recurrent or Refractory Ewing Sarcoma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-03-25"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-03-25"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Peking University People's Hospital"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Ewing Sarcoma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 44
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06465433",
-          "briefTitle": "Extension Study to Provide Continued Treatment for Patients With Hematologic Malignancies Previously Enrolled in Studies With Tafasitamab"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2022-11-08"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-08-29"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Incyte Corporation"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Hematologic Malignancies"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 25
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT01906385",
-          "briefTitle": "Maximum Tolerated Dose, Safety, and Efficacy of Rhenium Nanoliposomes in Recurrent Glioma (ReSPECT)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2015-06-03"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2025-12"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Cerenome"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Glioma"
+            "Breast Cancer",
+            "Solid Tumors, Adult"
           ]
         },
         "designModule": {
@@ -529,47 +548,11 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 55
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06296706",
-          "briefTitle": "A Clinical Study of Docetaxel for Injection (Albumin-bound) in Patients With Gastric Cancer"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-02-27"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-06-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "CSPC ZhongQi Pharmaceutical Technology Co., Ltd."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Gastric Cancer"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 630
+            "count": 880
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lpwW8iooeytmpOQJJxuZ_Wn3Pg"
+  "nextPageToken": "ZVNj7o2Elu8o3lpwSom5srbumpOQJJxpZvKl0A"
 }
