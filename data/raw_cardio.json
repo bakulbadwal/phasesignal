@@ -3,26 +3,70 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07375966",
-          "briefTitle": "Repeated Intravenous Thrombolysis for Ischemic Stroke With Medium to Large Vessel Occlusion Presenting Within 4.5 Hours of Onset With Tenecteplase (RITIS-TNK2)"
+          "nctId": "NCT06158698",
+          "briefTitle": "CMP-MYTHiC Trial and Registry - CardioMyoPathy With MYocarditis THerapy With Colchicine"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-03-25"
+            "date": "2023-11-14"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-12-30"
+            "date": "2026-05-02"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "General Hospital of Shenyang Military Region"
+            "name": "Niguarda Hospital"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Ischemic Stroke"
+            "Cardiomyopathies",
+            "Myocarditis",
+            "Inflammatory Cardiomyopathy",
+            "Heart Failure",
+            "Ventricular Arrythmia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 80
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04343157",
+          "briefTitle": "UCSD Image-Guided Cognitive-Sparing Radiosurgery for Intracranial Lesions"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2019-05-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-12-31"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Jona Hattangadi-Gluth"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Brain Metastases, Adult",
+            "Neurocognitive Function",
+            "Cancer",
+            "Meningioma of Brain",
+            "Arteriovenous Malformations, Cerebral"
           ]
         },
         "designModule": {
@@ -31,7 +75,81 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 198
+            "count": 90
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04061512",
+          "briefTitle": "Rituximab and Ibrutinib (RI) Versus Dexamethasone, Rituximab and Cyclophosphamide (DRC) as Initial Therapy for Waldenstr\u00f6m's Macroglobulinaemia"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2020-02-03"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2030-03"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University College, London"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Waldenstrom Macroglobulinemia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 148
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06025630",
+          "briefTitle": "Targeting Endoplasmic Reticulum Stress in Human Hypertension"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-08-15"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-12-31"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of North Texas Health Science Center"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hypertension"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 70
           }
         }
       }
@@ -75,26 +193,27 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07551492",
-          "briefTitle": "A Phase III Study To Evaluate the Efficacy And Safety Of HRS9531 In Participants With Atherosclerotic Cardiovascular Disease"
+          "nctId": "NCT05014581",
+          "briefTitle": "Preventing Cardiovascular Collapse With Vasopressors During Tracheal Intubation"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-05-29"
+            "date": "2024-08-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2031-05-24"
+            "date": "2026-03"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Fujian Shengdi Pharmaceutical Co., Ltd."
+            "name": "University of Turin, Italy"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Atherosclerotic Cardiovascular Disease"
+            "Critical Illness",
+            "Respiratory Failure"
           ]
         },
         "designModule": {
@@ -103,7 +222,7 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 9262
+            "count": 420
           }
         }
       }
@@ -111,206 +230,13 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05610865",
-          "briefTitle": "Efficacy of Adipose Tissue Derived Stem Cells for the Treatment of Diabetic Foot Ulcers"
+          "nctId": "NCT06643819",
+          "briefTitle": "Phase 3 Trial to Evaluate the Efficacy and Safety of CKD-202A"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2020-11-20"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2025-12"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of the Punjab"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Diabetic Foot Ulcer",
-            "Diabetes Mellitus",
-            "Diabetic Foot",
-            "Diabetic Foot Infection",
-            "Diabetic Foot Ulcer Neuropathic",
-            "Foot Ulcer Due to Type 1 Diabetes Mellitus",
-            "Foot Ulcer Due to Type 2 Diabetes Mellitus",
-            "Foot Ulcer",
-            "Diabetes Complications",
-            "Chronic Diabetic Ulcer of Left Foot",
-            "Chronic Diabetic Foot Ulcer of Right Foot"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 28
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07509645",
-          "briefTitle": "Efficacy and Safety of Interleukin-6 Receptor Inhibitor Combined With Endovascular Treatment in Patients With Acute Posterior Circulation Large Vessel Occlusion Stroke"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-04-22"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-04-20"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Capital Medical University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Ischemic Stroke"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 348
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06403267",
-          "briefTitle": "NoNO-42 Trial in Acute Ischemic Stroke Patients Selected for Thrombolysis With or Without Endovascular Thrombectomy"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-10-02"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "NoNO Inc."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Acute Ischemic Stroke"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 600
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07221851",
-          "briefTitle": "Trial Investigating the Efficacy and Safety of Weekly Lonapegsomatropin Compared to Daily Somatropin in Children and Adolescents With Short Stature or Growth Failure Due to Growth Hormone Sufficient Disorders"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-12-12"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-02"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Ascendis Pharma A/S"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Turner Syndrome",
-            "Short Stature Homeobox Gene Mutation",
-            "Idiopathic Short Stature",
-            "Small for Gestational Age at Delivery"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 186
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07652281",
-          "briefTitle": "A Clinical Study of SHR-5421 in Patients With Multiple Myeloma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-07-23"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-04"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Multiple Myeloma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 97
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT04460573",
-          "briefTitle": "Smart Boot Use to Measure Offloading Adherence"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2021-10-19"
+            "date": "2024-10-14"
           },
           "primaryCompletionDateStruct": {
             "date": "2026-03-31"
@@ -318,12 +244,49 @@
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "University of Southern California"
+            "name": "Chong Kun Dang Pharmaceutical"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Diabetic Foot Ulcer"
+            "Essential Hypertension"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 324
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06319248",
+          "briefTitle": "MID-STEP (MIDodrine for Sepsis Treatment and Early vasoPressor Weaning) Trial"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-05-14"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-05-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Mayo Clinic"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Sepsis",
+            "Low Blood Pressure"
           ]
         },
         "designModule": {
@@ -332,7 +295,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 210
+            "count": 308
           }
         }
       }
@@ -340,34 +303,63 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05294731",
-          "briefTitle": "Treatment of Chinese Participants With B-Cell Malignancies With BGB-16673, a Bruton Tyrosine Kinase-Targeted Protein-Degrader"
+          "nctId": "NCT06083948",
+          "briefTitle": "Vasopressor Impact on Brain Circulation, Organ Blood Flow and Tissue Oxygenation During Anesthesia"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2022-05-06"
+            "date": "2023-12-20"
           },
           "primaryCompletionDateStruct": {
-            "date": "2029-01-31"
+            "date": "2027-12-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "BeiGene"
+            "name": "University of Aarhus"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "B-cell Malignancy",
-            "Non-Hodgkin Lymphoma",
-            "Mantle Cell Lymphoma",
-            "Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma",
-            "Waldenstr\u00f6m Macroglobulinemia",
-            "Marginal Zone Lymphoma",
-            "Follicular Lymphoma",
-            "DLBCL Unclassifiable",
-            "Richter's Transformation"
+            "Hypotension"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 32
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07606274",
+          "briefTitle": "A Study With NVC-001 in Patients With LMNA-related Dilated Cardiomyopathy (SUNBEAM-LMNA)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-06-16"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2030-03"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Nuevocor Pte. Ltd."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "LMNA-Related Dilated Cardiomyopathy"
           ]
         },
         "designModule": {
@@ -377,11 +369,11 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 146
+            "count": 21
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lpwSom5srbumpOQJJxtZPCn2Pg"
+  "nextPageToken": "ZVNj7o2Elu8o3lpzDMiio-numpOQJJxtY_ig3Pg"
 }

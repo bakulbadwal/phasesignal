@@ -3,36 +3,35 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06947941",
-          "briefTitle": "A Study to Evaluate Safety and Efficacy of KarXT + KarX-EC as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-5)"
+          "nctId": "NCT07721467",
+          "briefTitle": "Neuroplasticity Enhancement From Cognitive Training Reinforced by Psilocybin"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-03-25"
+            "date": "2026-10-14"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-02-21"
+            "date": "2030-12-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Bristol-Myers Squibb"
+            "name": "National Institute on Aging (NIA)"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Alzheimer Disease",
-            "Psychosis"
+            "Alzheimer's Disease"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE3"
+            "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 325
+            "count": 200
           }
         }
       }
@@ -40,36 +39,37 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06937229",
-          "briefTitle": "A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          "nctId": "NCT06957418",
+          "briefTitle": "Alzheimer's Tau Platform: Master Protocol"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-12-02"
+            "date": "2026-07-06"
           },
           "primaryCompletionDateStruct": {
-            "date": "2029-06-22"
+            "date": "2028-08-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Bristol-Myers Squibb"
+            "name": "Paul S. Aisen"
           }
         },
         "conditionsModule": {
           "conditions": [
+            "Preclinical Alzheimer's Disease",
             "Alzheimer Disease",
-            "Agitation"
+            "Prodromal Alzheimer's Disease"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE3"
+            "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 650
+            "count": 900
           }
         }
       }
@@ -77,28 +77,214 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07236190",
-          "briefTitle": "Biomarker-based Trial of NPC-1 for Alzheimer's Pathology"
+          "nctId": "NCT05591027",
+          "briefTitle": "Safety and Target Engagement of Centella Asiatica in Cognitive Impairment"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-04-01"
+            "date": "2022-12-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-06"
+            "date": "2025-11-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Massachusetts General Hospital"
+            "name": "Oregon Health and Science University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Mild Cognitive Impairment",
+            "Alzheimer's Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 48
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05462106",
+          "briefTitle": "A Study to Assess the Effects of ACI-24.060 in Alzheimer's Disease and in Down Syndrome (ABATE Study)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-06-21"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-04"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "AC Immune SA"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Amyloid Plaque",
+            "Beta-Amyloid",
+            "DSAD",
+            "Prodromal Alzheimer's Disease",
+            "Alzheimer's Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 304
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07142278",
+          "briefTitle": "DUVAX: A Phase 1 Alzheimer's Vaccine Study Targeting Amyloid-Beta and Tau"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-09-25"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-04-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Nuravax, Inc."
           }
         },
         "conditionsModule": {
           "conditions": [
             "Alzheimer Disease",
-            "Mild Cognitive Impairment (MCI)",
-            "Subjective Cognitive Decline (SCD)"
+            "Alzheimer Disease (AD)",
+            "Preclinical Alzheimer&#39;s Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 24
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05822362",
+          "briefTitle": "CBD for Individuals at Risk for Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-01-19"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-04"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Colorado, Denver"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Mild Cognitive Impairment"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 236
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06041789",
+          "briefTitle": "Effect of Acetylcholinesterase Inhibitors on Bone Metabolism"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-02-03"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-09"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Duke University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Osteoporosis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 45
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06862960",
+          "briefTitle": "Ozanimod in Patients With Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-08-13"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-06-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "ChenXiaoChun"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease"
           ]
         },
         "designModule": {
@@ -111,191 +297,7 @@
           }
         }
       }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06702124",
-          "briefTitle": "A Phase 3 Study of Rotigotine in Combination with Rivastigmine in Mild to Moderate Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-12-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2025-07"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "I.R.C.C.S. Fondazione Santa Lucia"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 348
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05511363",
-          "briefTitle": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2022-08-23"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-10-05"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Psychosis Associated With Alzheimer's Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 410
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05597124",
-          "briefTitle": "Exercise to Improve Brain Health in Older African Americans"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-04-20"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-06-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Rutgers, The State University of New Jersey"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Aging",
-            "Alzheimer Disease",
-            "Healthy Aging",
-            "Cognitive Change"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 280
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07688213",
-          "briefTitle": "A Study to Investigate the Safety and Effectiveness of SAR448851 in Participants With Early Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-07-28"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2029-07-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Sanofi"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Dementia, Alzheimer's Type",
-            "Alzheimer's Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 160
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT03503331",
-          "briefTitle": "UAB Alzheimer's Disease Center Core Cohort - Imaging Substudy"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2018-04-20"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-10"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Alabama at Birmingham"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 160
-          }
-        }
-      }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lpwSom5srbumpOQJJxtbfCi1PAW"
+  "nextPageToken": "ZVNj7o2Elu8o3lpzDMiio-numpOQJJxubPOg2PcW"
 }
