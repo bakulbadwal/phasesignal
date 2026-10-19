@@ -3,64 +3,71 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07721467",
-          "briefTitle": "Neuroplasticity Enhancement From Cognitive Training Reinforced by Psilocybin"
+          "nctId": "NCT04516057",
+          "briefTitle": "Nabilone for Agitation Blinded Intervention Trial"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-10-14"
+            "date": "2021-02-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2030-12-31"
+            "date": "2027-04"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "National Institute on Aging (NIA)"
+            "name": "Sunnybrook Health Sciences Centre"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Alzheimer's Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 200
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06957418",
-          "briefTitle": "Alzheimer's Tau Platform: Master Protocol"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-07-06"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-08-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Paul S. Aisen"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Preclinical Alzheimer's Disease",
             "Alzheimer Disease",
-            "Prodromal Alzheimer's Disease"
+            "Agitation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 112
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05565833",
+          "briefTitle": "Sleep Healthy Using the Internet Mitigating Insomnia to Address Neurocognitive Difficulties (SHUTi MIND)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-02-27"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Virginia"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Insomnia",
+            "Cognitive Dysfunction",
+            "Mild Cognitive Impairment",
+            "Sleep Initiation and Maintenance Disorders",
+            "Sleep Disorders, Intrinsic",
+            "Dyssomnias",
+            "Sleep Wake Disorders",
+            "Nervous System Diseases",
+            "Alzheimer Disease"
           ]
         },
         "designModule": {
@@ -69,7 +76,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 900
+            "count": 144
           }
         }
       }
@@ -77,142 +84,28 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05591027",
-          "briefTitle": "Safety and Target Engagement of Centella Asiatica in Cognitive Impairment"
+          "nctId": "NCT07512362",
+          "briefTitle": "Human Mesenchymal Stem Cells & Monoclonal Antibodies in the Treatment for Mild Cognitive Impairment or Early Alzheimer's Disease."
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2022-12-01"
+            "date": "2026-05-15"
           },
           "primaryCompletionDateStruct": {
-            "date": "2025-11-30"
+            "date": "2028-06-15"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Oregon Health and Science University"
+            "name": "Bernard (Barry) Baumel"
           }
         },
         "conditionsModule": {
           "conditions": [
             "Mild Cognitive Impairment",
-            "Alzheimer's Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 48
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05462106",
-          "briefTitle": "A Study to Assess the Effects of ACI-24.060 in Alzheimer's Disease and in Down Syndrome (ABATE Study)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2022-06-21"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2029-04"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "AC Immune SA"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Amyloid Plaque",
-            "Beta-Amyloid",
-            "DSAD",
-            "Prodromal Alzheimer's Disease",
-            "Alzheimer's Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1",
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 304
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07142278",
-          "briefTitle": "DUVAX: A Phase 1 Alzheimer's Vaccine Study Targeting Amyloid-Beta and Tau"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-09-25"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-04-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Nuravax, Inc."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease",
-            "Alzheimer Disease (AD)",
-            "Preclinical Alzheimer&#39;s Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 24
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05822362",
-          "briefTitle": "CBD for Individuals at Risk for Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-01-19"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-04"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Colorado, Denver"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Mild Cognitive Impairment"
+            "Early Alzheimer's Disease",
+            "AD-MCI"
           ]
         },
         "designModule": {
@@ -221,7 +114,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 236
+            "count": 10
           }
         }
       }
@@ -229,57 +122,21 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06041789",
-          "briefTitle": "Effect of Acetylcholinesterase Inhibitors on Bone Metabolism"
+          "nctId": "NCT06052163",
+          "briefTitle": "Bumetanide in Patients With Alzheimer's Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-02-03"
+            "date": "2023-04-10"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-09"
+            "date": "2026-12-15"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Duke University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Osteoporosis"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 45
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06862960",
-          "briefTitle": "Ozanimod in Patients With Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-08-13"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-06-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "ChenXiaoChun"
+            "name": "Stanford University"
           }
         },
         "conditionsModule": {
@@ -297,7 +154,156 @@
           }
         }
       }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03860857",
+          "briefTitle": "Biomarker Exploration in Aging, Cognition and Neurodegeneration"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2018-05-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12-22"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of California, Irvine"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease",
+            "Cognitive Impairment",
+            "Cognitive Decline"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 300
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04436081",
+          "briefTitle": "Effects of THC-Free CBD Oil on Agitation in Patients With Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-02-26"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2024-03"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Eastern Virginia Medical School"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease",
+            "Dementia",
+            "Major Neurocognitive Disorder With Aggressive Behavior"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 40
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07284472",
+          "briefTitle": "Safety and Efficacy of EXV-802 and EXV-801 in the Treatment of Agitation in Alzheimer's Disease Dementia"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-02-02"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Exciva GmbH"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Agitation Associated With Alzheimer's Disease Dementia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 300
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07251023",
+          "briefTitle": "Efficacy and Safety of DMB-I (INN: Latrepirdine) in Patients With Alzheimer Type Dementia"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-11-20"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-05"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Bigespas LTD"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Type Dementia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 450
+          }
+        }
+      }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lpzDMiio-numpOQJJxubPOg2PcW"
+  "nextPageToken": "ZVNj7o2Elu8o3lpzXcinvarumpOQJJxtZ_Oi1fMW"
 }
