@@ -3,29 +3,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06906341",
-          "briefTitle": "Relacorilant in Combination With Different Treatment Regimens in Patients With Gynecological Cancers"
+          "nctId": "NCT06774222",
+          "briefTitle": "A Study of Fruquintinib Plus Chemotherapy for Postoperative Treatment of HER2-Negative Gastric Cancer With Poor TRG"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-04-11"
+            "date": "2023-09-12"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-08"
+            "date": "2025-12-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Corcept Therapeutics"
+            "name": "Henan Cancer Hospital"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Ovarian Cancer",
-            "Fallopian Tube Cancer",
-            "Peritoneal Neoplasms",
-            "Endometrial Cancer"
+            "Gastric/Gastroesophageal Junction Adenocarcinoma"
           ]
         },
         "designModule": {
@@ -34,7 +31,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 270
+            "count": 69
           }
         }
       }
@@ -42,27 +39,247 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07300683",
-          "briefTitle": "Anti-CCR9 CAR T Cells for T Cell Leukaemia/Lymphoma"
+          "nctId": "NCT07104331",
+          "briefTitle": "SARC046: A Phase II Trial of Nab-Sirolimus in Patients With Progressing or Symptomatic Epithelioid Hemangioendothelioma"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-11-11"
+            "date": "2026-02-24"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-12"
+            "date": "2029-08-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "University College, London"
+            "name": "Sarcoma Alliance for Research through Collaboration"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "T Cell Acute Lymphoblastic Leukemia",
-            "T Cell Lymphoblastic Lymphoma"
+            "Epithelioid Hemangioendothelioma (EHE)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 41
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04704505",
+          "briefTitle": "Bipolar Androgen Therapy (BAT) and Radium-223 (RAD) in Metastatic Castration-resistant Prostate Cancer (mCRPC)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-04-28"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-02"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostate Adenocarcinoma",
+            "Metastatic Prostate Adenocarcinoma",
+            "Castration-resistant"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 47
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07293351",
+          "briefTitle": "A Study to Evaluate the Safety, Tolerability, and Efficacy of Pumitamig Alone or in Combination With Other Agents in Participants With Advanced Renal Cell Carcinoma (RCC) (ROSETTA RCC-208)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-03-26"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-11-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Bristol-Myers Squibb"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Advanced Renal Cell Carcinoma (RCC)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 474
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04799002",
+          "briefTitle": "Topotecan and Melphalan for Retinoblastoma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-03-11"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2024-12-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Sun Yat-sen University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Retinoblastoma",
+            "Chemotherapy Effect"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 50
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07381972",
+          "briefTitle": "Photodynamic Therapy Associated With Sonodynamic Therapy for the Treatment of Nodular Basal Cell Carcinoma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-11-24"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-08"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Sao Paulo"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Nodular Basal Cell Carcinoma of Skin"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 142
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06855277",
+          "briefTitle": "Study Comparing AAA817+ARPI Versus Standard of Care in Adult Participants With PSMA-positive mCRPC"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-07-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-09-29"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Novartis Pharmaceuticals"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostate Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 940
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06773312",
+          "briefTitle": "BC001 in Combination with Sintilimab and XELOX in the Treatment of HER-2 Negative Advanced or Metastatic Gastric Cancer or Gastroesophageal Junction Adenocarcinoma."
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-02-28"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-10"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Sichuan Luzhou Buchang Biopharmaceutical Co., Ltd."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Advanced or Metastatic Gastric Cancer",
+            "Gastroesophageal Junction Adenocarcinoma"
           ]
         },
         "designModule": {
@@ -71,7 +288,7 @@
             "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 24
+            "count": 80
           }
         }
       }
@@ -79,26 +296,171 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07218666",
-          "briefTitle": "Zanzalintinib in Men With Aggressive Variant Prostate Cancer"
+          "nctId": "NCT05751512",
+          "briefTitle": "A Study to Evaluate MRG003 vs Cetuximab/Methotrexate in in the Treatment of Patients With RM-SCCHN"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-08-19"
+            "date": "2023-04-04"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-07"
+            "date": "2027-12"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Deepak Kilari"
+            "name": "Lepu Biopharma Co., Ltd."
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Aggressive Variant Prostate Carcinoma"
+            "Squamous Cell Carcinoma of the Head and Neck"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 180
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04719156",
+          "briefTitle": "Fluorescent Intra-operative Tumor Margin Examination"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-03-02"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12-31"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Kurt Weiss"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Sarcoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 110
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06492122",
+          "briefTitle": "Study With [225Ac]Ac-FL-020 in mCRPC Participants"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-08-30"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-10"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Full-Life Technologies UK Limited"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Metastatic Castration-resistant Prostate Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 50
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04110301",
+          "briefTitle": "MIL62 Plus Lenalidomide for Patients With Relapsed/Refractory Indolent Non-Hodgkin's Lymphoma (FL and MZL)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2019-11-28"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2024-01-09"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Beijing Mabworks Biotech Co., Ltd."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Follicular Lymphoma and Marginal Zone Lymphoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 53
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07324629",
+          "briefTitle": "Sacituzumab Tirumotecan in Participants With Locally Advanced or Metastatic Thymic Carcinoma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-03-13"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-04"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Thymic Carcinoma"
           ]
         },
         "designModule": {
@@ -115,26 +477,72 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05797831",
-          "briefTitle": "Study of Navtemadlin as Maintenance Therapy in TP53WT Advanced or Recurrent Endometrial Cancer"
+          "nctId": "NCT05657639",
+          "briefTitle": "CAV Regimen for R/R AML"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2023-07-17"
+            "date": "2022-10-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2025-08"
+            "date": "2026-10-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Kartos Therapeutics, Inc."
+            "name": "The First Affiliated Hospital of Soochow University"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Endometrial Cancer"
+            "Acute Myeloid Leukemia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 68
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06758830",
+          "briefTitle": "Total Neoadjuvant Therapy and Organ Preservation Versus Surgery for Rectal Cancer."
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-01-06"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-12-27"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "National Cancer Center Affiliate of Vilnius University Hospital Santaros Klinikos"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Rectal Cancer",
+            "Total Neoadjuvant Treatment",
+            "Neoadjuvant Therapy",
+            "Radiotherapy",
+            "Chemotherapy",
+            "Organ Preservation",
+            "Radiotherapy Side Effect",
+            "Chemotherapy Side Effects",
+            "Chemoradiotherapy",
+            "Low Anterior Resection Syndrome",
+            "Quality of Life"
           ]
         },
         "designModule": {
@@ -144,440 +552,11 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 268
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06304857",
-          "briefTitle": "CardioPROTECTion with Dapagliflozin in Breast Cancer Patients Treated with AnthrAcycline - PROTECTAA TRIAL"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-04-15"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "4th Military Clinical Hospital with Polyclinic, Poland"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Breast Cancer",
-            "Heart Failure"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 188
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07297212",
-          "briefTitle": "A Clinical Trial Testing the Safety of the Investigational Drug Pumitamig (BNT327) and How Well it Works in Patients With Recurrent Glioblastoma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-01-15"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "BioNTech SE"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Recurrent Glioblastoma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 75
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06165419",
-          "briefTitle": "Definitive Radiation for High-Risk Spine Metastases"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-12-14"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-05-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Stony Brook University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Metastatic Cancer",
-            "Metastatic Lung Cancer",
-            "Metastatic Breast Cancer",
-            "Metastatic Tumor",
-            "Metastatic Tumor of Bone",
-            "Metastatic Tumor to the Spine",
-            "Spine Metastases",
-            "Metastasis"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 26
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05147844",
-          "briefTitle": "Toripalimab Combined With Radiotherapy in the Treatment of Oligometastatic Nasopharyngeal Carcinoma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2022-03-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2025-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Xinqiao Hospital of Chongqing"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Nasopharyngeal Carcinoma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 40
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06159166",
-          "briefTitle": "Mirdametinib Monotherapy in Adults With Neurofibromatosis 1 (NF1) and Cutaneous Neurofibromas (cNF)."
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-02-12"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-11-15"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Johns Hopkins University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "NF1",
-            "Cutaneous Neurofibroma",
-            "Monotherapy"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1",
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 24
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06296745",
-          "briefTitle": "Intrathecal Pemetrexed for Leptomeningeal Metastasis From Lung Adenocarcinoma That Progressed After Osimertinib."
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-09-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-01-20"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Guangzhou Medical University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Leptomeningeal Metastasis"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 36
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06999707",
-          "briefTitle": "Photon Radiotherapy Plus Tremelimumab/Durvalumab for BCLC Stage B and C HCC"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-05-22"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2030-05-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Chang Gung Memorial Hospital"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "HCC - Hepatocellular Carcinoma",
-            "Tremelimumab",
-            "Durvalumab",
-            "Radiotherapy"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 45
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05020236",
-          "briefTitle": "A Study to Learn About the Study Medicine Elranatamab Alone and With Daratumumab in People With Multiple Myeloma Who Have Received Other Treatments"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2021-10-04"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-02-26"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Pfizer"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Multiple Myeloma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 893
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07589205",
-          "briefTitle": "Study of IBI3028 in Participants With Locally Advanced, Unresectable, or Metastatic Solid Tumors"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-03-31"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-06-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Solid Tumor",
-            "Colorectal Cancer",
-            "Non-small Cell Lung Cancer",
-            "Pancreatic Ductal Adenocarcinoma",
-            "Head and Neck Squamous Cell Carcinoma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 493
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT04519151",
-          "briefTitle": "Pembrolizumab and Lenvatinib for Platinum- Sensitive Recurrent Ovarian Cancer"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2021-04-12"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2023-11"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Sheba Medical Center"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Ovarian Neoplasms",
-            "Carcinoma, Ovarian Epithelial",
-            "Neoplasm of Stomach",
-            "Ovarian Diseases",
-            "Genital Neoplasms, Female",
-            "Ovarian Epithelial Tumor",
-            "Urogenital Neoplasms",
-            "Neoplasms, Glandular and Epithelial"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 24
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT04623931",
-          "briefTitle": "Chemotherapy and Radiation Therapy for the Treatment of IDH Wildtype Gliomas or Non-histological (Molecular) Glioblastomas"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2020-01-30"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "M.D. Anderson Cancer Center"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Anaplastic Astrocytoma, IDH-Wildtype",
-            "Anaplastic Oligoastrocytoma",
-            "Anaplastic Oligodendroglioma",
-            "Diffuse Astrocytoma, IDH-Wildtype",
-            "Glioblastoma",
-            "Oligoastrocytoma",
-            "Oligodendroglioma",
-            "WHO Grade II Glioma",
-            "WHO Grade III Glioma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 40
+            "count": 400
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lpzXcinvarumpOQJJxpY_Cm0A"
+  "nextPageToken": "ZVNj7o2Elu8o3lpzV8ikv62tmpOQJJxuZPCs3Pg"
 }

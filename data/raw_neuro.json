@@ -3,80 +3,37 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT04516057",
-          "briefTitle": "Nabilone for Agitation Blinded Intervention Trial"
+          "nctId": "NCT05336695",
+          "briefTitle": "Assess Fibrin in Brains With AD/ADRD"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2021-02-01"
+            "date": "2022-03-29"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-04"
+            "date": "2026-09-28"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Sunnybrook Health Sciences Centre"
+            "name": "Massachusetts General Hospital"
           }
         },
         "conditionsModule": {
           "conditions": [
             "Alzheimer Disease",
-            "Agitation"
+            "Dementia of Alzheimer Type"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 112
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05565833",
-          "briefTitle": "Sleep Healthy Using the Internet Mitigating Insomnia to Address Neurocognitive Difficulties (SHUTi MIND)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-02-27"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Virginia"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Insomnia",
-            "Cognitive Dysfunction",
-            "Mild Cognitive Impairment",
-            "Sleep Initiation and Maintenance Disorders",
-            "Sleep Disorders, Intrinsic",
-            "Dyssomnias",
-            "Sleep Wake Disorders",
-            "Nervous System Diseases",
-            "Alzheimer Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
+            "PHASE1",
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 144
+            "count": 30
           }
         }
       }
@@ -84,140 +41,67 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07512362",
-          "briefTitle": "Human Mesenchymal Stem Cells & Monoclonal Antibodies in the Treatment for Mild Cognitive Impairment or Early Alzheimer's Disease."
+          "nctId": "NCT04396873",
+          "briefTitle": "PET Imaging of Cyclooxygenases in Neurodegenerative Brain Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-05-15"
+            "date": "2021-08-17"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-06-15"
+            "date": "2029-04-11"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Bernard (Barry) Baumel"
+            "name": "National Institute of Mental Health (NIMH)"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Mild Cognitive Impairment",
-            "Early Alzheimer's Disease",
-            "AD-MCI"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 10
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06052163",
-          "briefTitle": "Bumetanide in Patients With Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-04-10"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-15"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Stanford University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 40
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT03860857",
-          "briefTitle": "Biomarker Exploration in Aging, Cognition and Neurodegeneration"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2018-05-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-22"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of California, Irvine"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease",
-            "Cognitive Impairment",
-            "Cognitive Decline"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 300
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT04436081",
-          "briefTitle": "Effects of THC-Free CBD Oil on Agitation in Patients With Alzheimer's Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2021-02-26"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2024-03"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Eastern Virginia Medical School"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Alzheimer Disease",
+            "Parkinson's Disease",
             "Dementia",
-            "Major Neurocognitive Disorder With Aggressive Behavior"
+            "Alzheimer's Disease",
+            "ALS",
+            "Mild Cognitive Impairment"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 184
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07496918",
+          "briefTitle": "Brain Effects of Gamma Frequency Sensory Stimulation (40Hz Light, Sound and Other Devices)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2018-02-20"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-01-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Massachusetts Institute of Technology"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Cognitively Healthy People",
+            "Alzheimer Disease"
           ]
         },
         "designModule": {
@@ -226,7 +110,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 40
+            "count": 150
           }
         }
       }
@@ -234,36 +118,40 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07284472",
-          "briefTitle": "Safety and Efficacy of EXV-802 and EXV-801 in the Treatment of Agitation in Alzheimer's Disease Dementia"
+          "nctId": "NCT07693140",
+          "briefTitle": "Low-Dose Radiotherapy for Alzheimer's Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-02-02"
+            "date": "2026-07-15"
           },
           "primaryCompletionDateStruct": {
-            "date": "2029-01"
+            "date": "2029-05-21"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Exciva GmbH"
+            "name": "Evan Thomas"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Agitation Associated With Alzheimer's Disease Dementia"
+            "Alzheimer Dementia",
+            "Dementia",
+            "Alzheimer Dementia (AD)",
+            "Alzheimer",
+            "Alzheimer s Disease"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE2",
-            "PHASE3"
+            "PHASE1",
+            "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 300
+            "count": 50
           }
         }
       }
@@ -271,26 +159,72 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07251023",
-          "briefTitle": "Efficacy and Safety of DMB-I (INN: Latrepirdine) in Patients With Alzheimer Type Dementia"
+          "nctId": "NCT07688213",
+          "briefTitle": "A Study to Investigate the Safety and Effectiveness of SAR448851 in Participants With Early Alzheimer's Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-11-20"
+            "date": "2026-07-28"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-05"
+            "date": "2029-07-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Bigespas LTD"
+            "name": "Sanofi"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Alzheimer Type Dementia"
+            "Dementia, Alzheimer's Type",
+            "Alzheimer's Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 160
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07234695",
+          "briefTitle": "LEvetiracetam to Prevent Seizures in Symptomatic Alzheimer's Disease in Adults With Down Syndrome"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-22"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-12"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Fundaci\u00f3 Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Down Syndrome",
+            "Down Syndrome (DS)",
+            "Down Syndrome (Trisomy 21)",
+            "Alzheimer Dementia",
+            "Alzheimer Dementia (AD)",
+            "Alzheimer Disease",
+            "Alzheimer Disease (AD)",
+            "Alzheimer Blood Biomarkers",
+            "Epilepsy",
+            "Seizures"
           ]
         },
         "designModule": {
@@ -299,11 +233,87 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 450
+            "count": 120
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06976203",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-07-21"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-09-11"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Bristol-Myers Squibb"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer's Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 586
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05446584",
+          "briefTitle": "Pathways Relating Amnestic MCI to a Mild Traumatic Brain Injury History"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-04-20"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-05-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Texas Southwestern Medical Center"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Mild Cognitive Impairment",
+            "Amnestic Mild Cognitive Disorder",
+            "Amnestic Mild Cognitive Impairment",
+            "Mild Traumatic Brain Injury",
+            "Concussion, Brain"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 75
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lpzXcinvarumpOQJJxtZ_Oi1fMW"
+  "nextPageToken": "ZVNj7o2Elu8o3lpzV8ikv62tmpOQJJxtbPGh2v0W"
 }

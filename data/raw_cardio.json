@@ -3,27 +3,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06304857",
-          "briefTitle": "CardioPROTECTion with Dapagliflozin in Breast Cancer Patients Treated with AnthrAcycline - PROTECTAA TRIAL"
+          "nctId": "NCT07324837",
+          "briefTitle": "Single Bolus Non-immunogenic Staphylokinase in Patients With Acute Ischemic Stroke Within 4.5-24 Hours of Symptom Onset"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2024-04-15"
+            "date": "2026-06-09"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-12-31"
+            "date": "2028-11-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "4th Military Clinical Hospital with Polyclinic, Poland"
+            "name": "Supergene, LLC"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Breast Cancer",
-            "Heart Failure"
+            "Ischemic Stroke, Acute"
           ]
         },
         "designModule": {
@@ -32,7 +31,7 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 188
+            "count": 990
           }
         }
       }
@@ -40,26 +39,135 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07172971",
-          "briefTitle": "Sodium/Glucose Cotransporter-2 Inhibitors (SGLT2i) Therapy in Duchenne Cardiomyopathy"
+          "nctId": "NCT06822972",
+          "briefTitle": "HCMT/MM2401: Ph2 Study of Selinexor + Bispecific Antibody for RRMM"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-07-01"
+            "date": "2025-08-22"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-08-01"
+            "date": "2026-12-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Vanderbilt University Medical Center"
+            "name": "Duke University"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Duchenne Muscular Dystrophy (DMD)"
+            "Multiple Myeloma in Relapse",
+            "Multiple Myeloma, Refractory"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 27
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05713630",
+          "briefTitle": "The Use of Tranexamic Acid in the Treatment of Symptomatic Subdural Hematoma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-05-20"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-03-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Unity Health Toronto"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Subdural Hematoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 130
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06768138",
+          "briefTitle": "Intra-Arterial Thrombolysis After SUCCESSful Reperfusion in Anterior Circulation Ischemic Stroke"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-06-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-09-16"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Central Hospital, Nancy, France"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Stroke, Acute Ischemic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 626
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05762952",
+          "briefTitle": "Effect of Dapagliflozin on Microvascular Function in Women With Symptoms of Coronary Artery Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-06-06"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2025-08-05"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Virginia"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Myocardial Ischemia"
           ]
         },
         "designModule": {
@@ -68,7 +176,7 @@
             "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 10
+            "count": 40
           }
         }
       }
@@ -76,21 +184,57 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05020236",
-          "briefTitle": "A Study to Learn About the Study Medicine Elranatamab Alone and With Daratumumab in People With Multiple Myeloma Who Have Received Other Treatments"
+          "nctId": "NCT07140523",
+          "briefTitle": "A Study to Compare the Efficacy and Safety of SRSD107 and Enoxaparin in Adult Subjects Undergoing TKA"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2021-10-04"
+            "date": "2025-09-16"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-02-26"
+            "date": "2026-06-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Pfizer"
+            "name": "Sirius Therapeutics Co., Ltd."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Venous Thromboembolism"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 450
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04910568",
+          "briefTitle": "A Study Evaluating the Safety, Pharmacokinetics, and Activity of Cevostamab in Participants With Relapsed or Refractory Multiple Myeloma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-07-26"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-12-21"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Genentech, Inc."
           }
         },
         "conditionsModule": {
@@ -101,10 +245,10 @@
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE3"
+            "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 893
+            "count": 186
           }
         }
       }
@@ -112,63 +256,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07560436",
-          "briefTitle": "Coronary Artery Stents in Heart Failure With Preserved Ejection Fraction"
+          "nctId": "NCT05199662",
+          "briefTitle": "Randomization to Extend Stroke Intravenous ThromboLysis In Evolving Non-Large Vessel Occlusion With TNK (RESILIENT"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-03-23"
+            "date": "2022-01-20"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-11"
+            "date": "2026-07"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "King's College London"
+            "name": "Hospital Moinhos de Vento"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Heart Failure With Preserved Ejection Fraction (HFPEF)",
-            "Coronary Artery Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 350
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06643819",
-          "briefTitle": "Phase 3 Trial to Evaluate the Efficacy and Safety of CKD-202A"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-10-14"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-03-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Chong Kun Dang Pharmaceutical"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Essential Hypertension"
+            "Ischemic Stroke, Acute"
           ]
         },
         "designModule": {
@@ -177,7 +284,7 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 324
+            "count": 466
           }
         }
       }
@@ -185,187 +292,89 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07192211",
-          "briefTitle": "Exploratory Study of ADR-002K for Heart Failure Patients With Ischemic Heart Disease Who Undergo CABG"
+          "nctId": "NCT04624490",
+          "briefTitle": "Hyperpolarized 129Xe MR Imaging of Lung Function in Healthy Volunteers and Subjects With Pulmonary Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-04-28"
+            "date": "2020-11-02"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-09-30"
+            "date": "2028-10-26"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Rohto Pharmaceutical Co., Ltd."
+            "name": "Mario Castro, MD, MPH"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Ischemic Heart Disease"
+            "Asthma",
+            "COPD",
+            "Interstitial Lung Disease",
+            "Cystic Fibrosis",
+            "Pulmonary Hypertension",
+            "Pulmonary Infection",
+            "Other Lung Disease"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 260
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05573802",
+          "briefTitle": "A Study to Investigate Safety and Clinical Activity of Belantamab Mafodotin in Combination With Lenalidomide, Dexamethasone and Nirogacestat in Patients With Transplant Ineligible Newly Diagnosed Multiple Myeloma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-07-14"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-10-31"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Hellenic Society of Hematology"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Multiple Myeloma",
+            "Neoplasms",
+            "Neoplasm, Plasma Cell",
+            "Gammopathy, Monoclonal",
+            "Paraproteinemias",
+            "Blood Protein Disorders",
+            "Haematologic Disease",
+            "Corneal Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 50
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07837934",
-          "briefTitle": "Colchicine for Primary Prevention of Cardiovascular Disease in Adults With Type 2 Diabetes"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-07-24"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-07-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Tan Tock Seng Hospital"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Type 2 Diabetes Mellitus (T2DM)",
-            "Atherosclerosis",
-            "Cardiovascular Diseases"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 300
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07701512",
-          "briefTitle": "Clinical Study to Evaluate the Efficacy of Febuxostat in the Treatment of Conservatively Managed Intracranial Hemorrhage Patients"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-11-20"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-10-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Tanta University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Intracranial Hemorrhage"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 46
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07613294",
-          "briefTitle": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-06-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2029-12"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Eli Lilly and Company"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Atherosclerosis",
-            "Cardiovascular Diseases",
-            "Lipoprotein(a)"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 252
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07084012",
-          "briefTitle": "A Phase IIa Clinical Trial to Evaluate the Efficacy and Safety of Intravenous Infusion of hUC-MSCs in Patients With AIS"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-08-27"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-05-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Shenzhen Wingor Biotechnology Co., Ltd."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Acute Ischemic Stroke AIS"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 60
+            "count": 36
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lpzXcinvarumpOQJJxuYvas1fg"
+  "nextPageToken": "ZVNj7o2Elu8o3lpzV8ikv62tmpOQJJxqZPCj3_g"
 }
