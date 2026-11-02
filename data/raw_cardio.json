@@ -3,63 +3,28 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07324837",
-          "briefTitle": "Single Bolus Non-immunogenic Staphylokinase in Patients With Acute Ischemic Stroke Within 4.5-24 Hours of Symptom Onset"
+          "nctId": "NCT06638944",
+          "briefTitle": "Wearable Biofeedback for Swallowing Disorders Rehabilitation in Stroke and Parkinson Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-06-09"
+            "date": "2025-07-22"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-11-01"
+            "date": "2028-12-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Supergene, LLC"
+            "name": "University of Illinois at Urbana-Champaign"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Ischemic Stroke, Acute"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 990
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06822972",
-          "briefTitle": "HCMT/MM2401: Ph2 Study of Selinexor + Bispecific Antibody for RRMM"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-08-22"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-12-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Duke University"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Multiple Myeloma in Relapse",
-            "Multiple Myeloma, Refractory"
+            "Dysphagia",
+            "Stroke",
+            "Parkinson Disease"
           ]
         },
         "designModule": {
@@ -68,7 +33,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 27
+            "count": 120
           }
         }
       }
@@ -76,165 +41,21 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05713630",
-          "briefTitle": "The Use of Tranexamic Acid in the Treatment of Symptomatic Subdural Hematoma"
+          "nctId": "NCT05243797",
+          "briefTitle": "Phase 3 Study of Teclistamab in Combination With Lenalidomide and Teclistamab Alone Versus Lenalidomide Alone in Participants With Newly Diagnosed Multiple Myeloma as Maintenance Therapy Following Autologous Stem Cell Transplantation"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-05-20"
+            "date": "2022-09-08"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-03-30"
+            "date": "2028-04"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Unity Health Toronto"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Subdural Hematoma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 130
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06768138",
-          "briefTitle": "Intra-Arterial Thrombolysis After SUCCESSful Reperfusion in Anterior Circulation Ischemic Stroke"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-06-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-09-16"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Central Hospital, Nancy, France"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Stroke, Acute Ischemic"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 626
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05762952",
-          "briefTitle": "Effect of Dapagliflozin on Microvascular Function in Women With Symptoms of Coronary Artery Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-06-06"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2025-08-05"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Virginia"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Myocardial Ischemia"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 40
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07140523",
-          "briefTitle": "A Study to Compare the Efficacy and Safety of SRSD107 and Enoxaparin in Adult Subjects Undergoing TKA"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-09-16"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-06-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Sirius Therapeutics Co., Ltd."
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Venous Thromboembolism"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 450
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT04910568",
-          "briefTitle": "A Study Evaluating the Safety, Pharmacokinetics, and Activity of Cevostamab in Participants With Relapsed or Refractory Multiple Myeloma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2021-07-26"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-12-21"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Genentech, Inc."
+            "name": "European Myeloma Network B.V."
           }
         },
         "conditionsModule": {
@@ -245,46 +66,10 @@
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 186
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05199662",
-          "briefTitle": "Randomization to Extend Stroke Intravenous ThromboLysis In Evolving Non-Large Vessel Occlusion With TNK (RESILIENT"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2022-01-20"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-07"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Hospital Moinhos de Vento"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Ischemic Stroke, Acute"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 466
+            "count": 1594
           }
         }
       }
@@ -292,75 +77,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT04624490",
-          "briefTitle": "Hyperpolarized 129Xe MR Imaging of Lung Function in Healthy Volunteers and Subjects With Pulmonary Disease"
+          "nctId": "NCT05850234",
+          "briefTitle": "AZD0120 in Relapsed/Refractory Multiple Myeloma (DURGA-1)"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2020-11-02"
+            "date": "2023-07-20"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-10-26"
+            "date": "2027-10-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Mario Castro, MD, MPH"
+            "name": "AstraZeneca"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Asthma",
-            "COPD",
-            "Interstitial Lung Disease",
-            "Cystic Fibrosis",
-            "Pulmonary Hypertension",
-            "Pulmonary Infection",
-            "Other Lung Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 260
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05573802",
-          "briefTitle": "A Study to Investigate Safety and Clinical Activity of Belantamab Mafodotin in Combination With Lenalidomide, Dexamethasone and Nirogacestat in Patients With Transplant Ineligible Newly Diagnosed Multiple Myeloma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-07-14"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-10-31"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Hellenic Society of Hematology"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Multiple Myeloma",
-            "Neoplasms",
-            "Neoplasm, Plasma Cell",
-            "Gammopathy, Monoclonal",
-            "Paraproteinemias",
-            "Blood Protein Disorders",
-            "Haematologic Disease",
-            "Corneal Disease"
+            "Relapsed/Refractory Multiple Myeloma"
           ]
         },
         "designModule": {
@@ -370,11 +106,272 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 36
+            "count": 232
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07333430",
+          "briefTitle": "Study of Naive HBI0101 CAR-T Therapy in Relapsed/Refractory Multiple Myeloma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-01-07"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-12-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Hadassah Medical Organization"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Relapsed/Refractory Multiple Myeloma (MM)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 60
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06906081",
+          "briefTitle": "Finerenone Treatment for Diabetic Cardiovascular Autonomic Neuropathy: the FibroCAN Study"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-05-02"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Peter Rossing"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Cardiovascular Autonomic Neuropathy",
+            "Type 2 Diabetes",
+            "Diabetic Neuropathies"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 100
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07595367",
+          "briefTitle": "Evaluate the Effectiveness and Safety of BBD-1 Multi-target Immune Enhancement Targeting Agent in the Treatment of Hypersensitivity Reaction (IgA) Vasculitis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-08-10"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-08-10"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Qifeng Zhang"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergic Reaction (IgA) Vasculitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 30
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07784231",
+          "briefTitle": "The Use of Photobiomodulation in the Treatment of Spasticity After Stroke."
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-08-28"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-04-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Nove de Julho"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Stroke",
+            "Spasticity",
+            "Photobiomodulation",
+            "NIRS"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 42
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06555237",
+          "briefTitle": "MEK Inhibitors for the Treatment of Hypertrophic Cardiomyopathy in Patients With RASopathies"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-08-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-08-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Medical University of Warsaw"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Cardiomegaly",
+            "Noonan Syndrome"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 40
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04513639",
+          "briefTitle": "The Relapse from MRD Negativity As Indication for Treatment (REMNANT) Study"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2020-08-27"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2031-06-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Oslo University Hospital"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Multiple Myeloma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 176
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07397923",
+          "briefTitle": "Exploratory Evaluation of the Digital Therapeutic Device Zenicom for Subacute Stroke Aphasia"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-10"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-06-30"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Seoul National University Bundang Hospital"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Aphasia",
+            "Stroke"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 20
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lpzV8ikv62tmpOQJJxqZPCj3_g"
+  "nextPageToken": "ZVJ76sWHmqU2wRk2CJf6_LLvwtOWKd8od7KrgP4YnzaXvfE"
 }

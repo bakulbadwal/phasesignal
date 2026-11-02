@@ -3,104 +3,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05336695",
-          "briefTitle": "Assess Fibrin in Brains With AD/ADRD"
+          "nctId": "NCT06362707",
+          "briefTitle": "Fasudil Trial for Treatment of Early Alzheimer's Disease (FEAD)"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2022-03-29"
+            "date": "2024-08-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-09-28"
+            "date": "2028-01-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Massachusetts General Hospital"
+            "name": "Helse Stavanger HF"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Alzheimer Disease",
-            "Dementia of Alzheimer Type"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1",
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 30
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT04396873",
-          "briefTitle": "PET Imaging of Cyclooxygenases in Neurodegenerative Brain Disease"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2021-08-17"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2029-04-11"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "National Institute of Mental Health (NIMH)"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Parkinson's Disease",
-            "Dementia",
-            "Alzheimer's Disease",
-            "ALS",
-            "Mild Cognitive Impairment"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
-          ],
-          "enrollmentInfo": {
-            "count": 184
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07496918",
-          "briefTitle": "Brain Effects of Gamma Frequency Sensory Stimulation (40Hz Light, Sound and Other Devices)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2018-02-20"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-01-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Massachusetts Institute of Technology"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Cognitively Healthy People",
+            "Cognitive Decline, Mild",
             "Alzheimer Disease"
           ]
         },
@@ -110,7 +32,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 150
+            "count": 200
           }
         }
       }
@@ -118,40 +40,35 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07693140",
-          "briefTitle": "Low-Dose Radiotherapy for Alzheimer's Disease"
+          "nctId": "NCT06014424",
+          "briefTitle": "Cannabidiol Medication Intervention Trial"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-07-15"
+            "date": "2023-09-27"
           },
           "primaryCompletionDateStruct": {
-            "date": "2029-05-21"
+            "date": "2026-12-29"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Evan Thomas"
+            "name": "Sunnybrook Health Sciences Centre"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Alzheimer Dementia",
-            "Dementia",
-            "Alzheimer Dementia (AD)",
-            "Alzheimer",
-            "Alzheimer s Disease"
+            "Alzheimer Disease"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE1",
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 50
+            "count": 40
           }
         }
       }
@@ -159,33 +76,146 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07688213",
-          "briefTitle": "A Study to Investigate the Safety and Effectiveness of SAR448851 in Participants With Early Alzheimer's Disease"
+          "nctId": "NCT05456503",
+          "briefTitle": "PET Imaging Tau Accumulation in FTLD and Atypical Alzheimer's Using [18F]-PI-2620"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-07-28"
+            "date": "2022-09-19"
           },
           "primaryCompletionDateStruct": {
-            "date": "2029-07-31"
+            "date": "2028-08"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Sanofi"
+            "name": "University of Pennsylvania"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Dementia, Alzheimer's Type",
-            "Alzheimer's Disease"
+            "Frontotemporal Lobar Degeneration",
+            "Alzheimer Disease",
+            "Cognitively Normal"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 72
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07217912",
+          "briefTitle": "Daridorexant to Prevent Post-cardiotomy Delirium"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-10-14"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-11-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Rochester"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Postoperative Cognitive Decline",
+            "Postoperative Delirium"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
             "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 80
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05597124",
+          "briefTitle": "Exercise to Improve Brain Health in Older African Americans"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-04-20"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-06-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Rutgers, The State University of New Jersey"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Aging",
+            "Alzheimer Disease",
+            "Healthy Aging",
+            "Cognitive Change"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 280
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03809351",
+          "briefTitle": "UAB Alzheimer's Disease Center Core Cohort - Tau Imaging Substudy"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2020-07-08"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-07"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Alabama at Birmingham"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
           ],
           "enrollmentInfo": {
             "count": 160
@@ -196,44 +226,36 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07234695",
-          "briefTitle": "LEvetiracetam to Prevent Seizures in Symptomatic Alzheimer's Disease in Adults With Down Syndrome"
+          "nctId": "NCT07386730",
+          "briefTitle": "A Study of Psychedelics in Healthy Older Adults With Low Well-being"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-12-22"
+            "date": "2026-06-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-12"
+            "date": "2030-02"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Fundaci\u00f3 Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau"
+            "name": "Jennifer Mitchell"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Down Syndrome",
-            "Down Syndrome (DS)",
-            "Down Syndrome (Trisomy 21)",
-            "Alzheimer Dementia",
-            "Alzheimer Dementia (AD)",
-            "Alzheimer Disease",
-            "Alzheimer Disease (AD)",
-            "Alzheimer Blood Biomarkers",
-            "Epilepsy",
-            "Seizures"
+            "Anhedonia in Healthy Volunteers",
+            "Older Adults (50-90 Years)"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE3"
+            "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 120
+            "count": 80
           }
         }
       }
@@ -241,66 +263,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06976203",
-          "briefTitle": "A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          "nctId": "NCT07033494",
+          "briefTitle": "A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-07-21"
+            "date": "2025-07-16"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-09-11"
+            "date": "2029-04-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Bristol-Myers Squibb"
+            "name": "Merck Sharp & Dohme LLC"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Alzheimer's Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 586
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05446584",
-          "briefTitle": "Pathways Relating Amnestic MCI to a Mild Traumatic Brain Injury History"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-04-20"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-05-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Texas Southwestern Medical Center"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Mild Cognitive Impairment",
-            "Amnestic Mild Cognitive Disorder",
-            "Amnestic Mild Cognitive Impairment",
-            "Mild Traumatic Brain Injury",
-            "Concussion, Brain"
+            "Early Alzheimer's Disease"
           ]
         },
         "designModule": {
@@ -309,11 +291,11 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 75
+            "count": 340
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVNj7o2Elu8o3lpzV8ikv62tmpOQJJxtbPGh2v0W"
+  "nextPageToken": "ZVJ76sWHmqU2wRk2CJf6_LLvwtOWKd8od7KrgP4YnD6Wv_4w"
 }
