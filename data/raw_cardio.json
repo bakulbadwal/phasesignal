@@ -3,28 +3,26 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06638944",
-          "briefTitle": "Wearable Biofeedback for Swallowing Disorders Rehabilitation in Stroke and Parkinson Disease"
+          "nctId": "NCT06759558",
+          "briefTitle": "Allopregnanolone (Zuranolone) in Post-stroke Depression"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-07-22"
+            "date": "2026-01-30"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-12-31"
+            "date": "2027-06-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "University of Illinois at Urbana-Champaign"
+            "name": "Duke University"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Dysphagia",
-            "Stroke",
-            "Parkinson Disease"
+            "Post Stroke Depression"
           ]
         },
         "designModule": {
@@ -33,7 +31,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 120
+            "count": 6
           }
         }
       }
@@ -41,105 +39,33 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05243797",
-          "briefTitle": "Phase 3 Study of Teclistamab in Combination With Lenalidomide and Teclistamab Alone Versus Lenalidomide Alone in Participants With Newly Diagnosed Multiple Myeloma as Maintenance Therapy Following Autologous Stem Cell Transplantation"
+          "nctId": "NCT05140148",
+          "briefTitle": "Promoting Recovery After STroke With Amantadine"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2022-09-08"
+            "date": "2022-02-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-04"
+            "date": "2027-12-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "European Myeloma Network B.V."
+            "name": "University of Pennsylvania"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Multiple Myeloma"
+            "Stroke, Ischemic",
+            "Stroke Hemorrhagic"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE3"
-          ],
-          "enrollmentInfo": {
-            "count": 1594
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT05850234",
-          "briefTitle": "AZD0120 in Relapsed/Refractory Multiple Myeloma (DURGA-1)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2023-07-20"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-10-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "AstraZeneca"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Relapsed/Refractory Multiple Myeloma"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1",
             "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 232
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07333430",
-          "briefTitle": "Study of Naive HBI0101 CAR-T Therapy in Relapsed/Refractory Multiple Myeloma"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2026-01-07"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2027-12-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Hadassah Medical Organization"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Relapsed/Refractory Multiple Myeloma (MM)"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1"
           ],
           "enrollmentInfo": {
             "count": 60
@@ -150,37 +76,35 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06906081",
-          "briefTitle": "Finerenone Treatment for Diabetic Cardiovascular Autonomic Neuropathy: the FibroCAN Study"
+          "nctId": "NCT07223593",
+          "briefTitle": "Efficacy and Safety of Orforglipron in Participants With Peripheral Artery Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-05-02"
+            "date": "2025-10-31"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-01"
+            "date": "2028-06"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Peter Rossing"
+            "name": "Eli Lilly and Company"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Cardiovascular Autonomic Neuropathy",
-            "Type 2 Diabetes",
-            "Diabetic Neuropathies"
+            "Peripheral Arterial Disease"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE2"
+            "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 100
+            "count": 1205
           }
         }
       }
@@ -188,26 +112,99 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07595367",
-          "briefTitle": "Evaluate the Effectiveness and Safety of BBD-1 Multi-target Immune Enhancement Targeting Agent in the Treatment of Hypersensitivity Reaction (IgA) Vasculitis"
+          "nctId": "NCT07146048",
+          "briefTitle": "A Non-Inferiority Trial of Stopping Penicillin in Early Rheumatic Heart Disease: GOAL-Stop"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-08-10"
+            "date": "2026-03-23"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-08-10"
+            "date": "2029-02-20"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Qifeng Zhang"
+            "name": "Children's Hospital Medical Center, Cincinnati"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Allergic Reaction (IgA) Vasculitis"
+            "Rheumatic Heart Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 922
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07025629",
+          "briefTitle": "Dapagliflozin for Cardio-renal Protection After ICU Discharge"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-02"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-01-15"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Assistance Publique - H\u00f4pitaux de Paris"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Heart Failure and Chronic Kidney Disease Post-ICU"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 600
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06832865",
+          "briefTitle": "ELISA in Relapsed/Refractory MM"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-08-14"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12-01"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Massachusetts General Hospital"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Relapsed Refractory Multiple Myeloma (RRMM)",
+            "Relapsed Refractory Multiple Myeloma"
           ]
         },
         "designModule": {
@@ -224,67 +221,28 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07784231",
-          "briefTitle": "The Use of Photobiomodulation in the Treatment of Spasticity After Stroke."
+          "nctId": "NCT07073287",
+          "briefTitle": "Efficacy of Cerebello-spinal Direct Current Stimulation (csDCS) on Functional Mobility in Chronic Stroke Patients"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-08-28"
+            "date": "2024-05-01"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-04-30"
+            "date": "2026-01-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "University of Nove de Julho"
+            "name": "Universidade Federal de Pernambuco"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Stroke",
-            "Spasticity",
-            "Photobiomodulation",
-            "NIRS"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE1",
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 42
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT06555237",
-          "briefTitle": "MEK Inhibitors for the Treatment of Hypertrophic Cardiomyopathy in Patients With RASopathies"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2024-08-01"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-08-01"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Medical University of Warsaw"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Cardiomegaly",
-            "Noonan Syndrome"
+            "Stroke Rehabilitation",
+            "Gait Disorders, Neurologic",
+            "tDCS"
           ]
         },
         "designModule": {
@@ -293,7 +251,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 40
+            "count": 30
           }
         }
       }
@@ -301,21 +259,58 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT04513639",
-          "briefTitle": "The Relapse from MRD Negativity As Indication for Treatment (REMNANT) Study"
+          "nctId": "NCT07473700",
+          "briefTitle": "Study of TX000045 in Participants With Pulmonary Hypertension Due to Interstitial Lung Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2020-08-27"
+            "date": "2026-10-30"
           },
           "primaryCompletionDateStruct": {
-            "date": "2031-06-01"
+            "date": "2027-11-21"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Oslo University Hospital"
+            "name": "Tectonic Operating Company, Inc."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hypertension, Pulmonary",
+            "Lung Diseases, Interstitial"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 25
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06700395",
+          "briefTitle": "A Clinical Study of TQB2029 for Injection in Subjects With Multiple Myeloma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-11-28"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-03"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd."
           }
         },
         "conditionsModule": {
@@ -326,11 +321,10 @@
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE2",
-            "PHASE3"
+            "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 176
+            "count": 136
           }
         }
       }
@@ -338,40 +332,47 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07397923",
-          "briefTitle": "Exploratory Evaluation of the Digital Therapeutic Device Zenicom for Subacute Stroke Aphasia"
+          "nctId": "NCT07249905",
+          "briefTitle": "Dose Escalation and Dose Expansion Study of MDX2003 in Patients With Different Types of Lymphoma"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2025-12-10"
+            "date": "2026-04-13"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-06-30"
+            "date": "2028-01"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Seoul National University Bundang Hospital"
+            "name": "ModeX Therapeutics, An OPKO Health Company"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Aphasia",
-            "Stroke"
+            "Lymphoma",
+            "Waldenstr\u00f6m Macroglobulinemia (WM)",
+            "DLBCL - Diffuse Large B Cell Lymphoma",
+            "PMBCL",
+            "HGBCL",
+            "FL Lymphoma",
+            "Lymphoplasmacytic Lymphoma",
+            "Follicular Lymphoma (FL)"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
+            "PHASE1",
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 20
+            "count": 180
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVJ76sWHmqU2wRk2CJf6_LLvwtOWKd8od7KrgP4YnzaXvfE"
+  "nextPageToken": "ZVNj7o2Elu8o3lpyBYqp6rLumpOQJJxqYPin2vg"
 }

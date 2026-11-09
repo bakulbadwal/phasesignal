@@ -3,26 +3,25 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06362707",
-          "briefTitle": "Fasudil Trial for Treatment of Early Alzheimer's Disease (FEAD)"
+          "nctId": "NCT06514001",
+          "briefTitle": "A Study of AMDX-2011P in Participants With Alzheimer's Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2024-08-01"
+            "date": "2025-03-07"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-01-01"
+            "date": "2027-07"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Helse Stavanger HF"
+            "name": "Amydis Inc."
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Cognitive Decline, Mild",
             "Alzheimer Disease"
           ]
         },
@@ -32,7 +31,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 200
+            "count": 25
           }
         }
       }
@@ -40,16 +39,16 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT06014424",
-          "briefTitle": "Cannabidiol Medication Intervention Trial"
+          "nctId": "NCT07477431",
+          "briefTitle": "Levetiracetam for Persons at Risk for Alzheimer's Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2023-09-27"
+            "date": "2025-10-23"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-12-29"
+            "date": "2027-12"
           }
         },
         "sponsorCollaboratorsModule": {
@@ -59,7 +58,8 @@
         },
         "conditionsModule": {
           "conditions": [
-            "Alzheimer Disease"
+            "Hippocampal Hyperactivation",
+            "Prodromal Alzheimer Disease"
           ]
         },
         "designModule": {
@@ -76,28 +76,62 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05456503",
-          "briefTitle": "PET Imaging Tau Accumulation in FTLD and Atypical Alzheimer's Using [18F]-PI-2620"
+          "nctId": "NCT06651567",
+          "briefTitle": "A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Agitation Associated With Alzheimer's Dementia"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2022-09-19"
+            "date": "2024-10-22"
           },
           "primaryCompletionDateStruct": {
-            "date": "2028-08"
+            "date": "2027-12-28"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "University of Pennsylvania"
+            "name": "Intra-Cellular Therapies, Inc."
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Frontotemporal Lobar Degeneration",
-            "Alzheimer Disease",
-            "Cognitively Normal"
+            "Agitation Associated With Alzheimer's Dementia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 320
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07142954",
+          "briefTitle": "Epidemiology and Biomarker Study in Alzheimer's Disease"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-08-25"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2033-07"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Eli Lilly and Company"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alzheimer Disease"
           ]
         },
         "designModule": {
@@ -106,7 +140,7 @@
             "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 72
+            "count": 3400
           }
         }
       }
@@ -114,8 +148,44 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07217912",
-          "briefTitle": "Daridorexant to Prevent Post-cardiotomy Delirium"
+          "nctId": "NCT06191198",
+          "briefTitle": "Communication Bridge 3 Study"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-08-23"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-07-15"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Chicago"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Primary Progressive Aphasia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 200
+          }
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07213349",
+          "briefTitle": "Daridorexant for Alzheimer Disease Prevention"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
@@ -123,18 +193,17 @@
             "date": "2025-10-14"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-11-01"
+            "date": "2028-12"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "University of Rochester"
+            "name": "Douglas Mental Health University Institute"
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Postoperative Cognitive Decline",
-            "Postoperative Delirium"
+            "Alzheimer Disease (AD)"
           ]
         },
         "designModule": {
@@ -143,7 +212,7 @@
             "PHASE2"
           ],
           "enrollmentInfo": {
-            "count": 80
+            "count": 240
           }
         }
       }
@@ -151,60 +220,21 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT05597124",
-          "briefTitle": "Exercise to Improve Brain Health in Older African Americans"
+          "nctId": "NCT06619613",
+          "briefTitle": "A Study of CM383 in Patients With Alzheimer's Disease Related Mild Cognitive Impairment and Mild Alzheimer's Disease"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2023-04-20"
+            "date": "2024-11-08"
           },
           "primaryCompletionDateStruct": {
-            "date": "2027-06-01"
+            "date": "2026-12-30"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Rutgers, The State University of New Jersey"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Aging",
-            "Alzheimer Disease",
-            "Healthy Aging",
-            "Cognitive Change"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 280
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT03809351",
-          "briefTitle": "UAB Alzheimer's Disease Center Core Cohort - Tau Imaging Substudy"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2020-07-08"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2028-07"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "University of Alabama at Birmingham"
+            "name": "Keymed Biosciences Co.Ltd"
           }
         },
         "conditionsModule": {
@@ -218,7 +248,7 @@
             "PHASE1"
           ],
           "enrollmentInfo": {
-            "count": 160
+            "count": 48
           }
         }
       }
@@ -226,76 +256,39 @@
     {
       "protocolSection": {
         "identificationModule": {
-          "nctId": "NCT07386730",
-          "briefTitle": "A Study of Psychedelics in Healthy Older Adults With Low Well-being"
+          "nctId": "NCT06534723",
+          "briefTitle": "Phase 3 Clinical Trial of Wujia Yizhi Granules in the Treatment of Mild-to-moderate Alzheimer's Dementia (Syndrome of Deficiency of Spleen and Kidney)"
         },
         "statusModule": {
           "overallStatus": "RECRUITING",
           "startDateStruct": {
-            "date": "2026-06-01"
+            "date": "2024-08-20"
           },
           "primaryCompletionDateStruct": {
-            "date": "2030-02"
+            "date": "2026-08-31"
           }
         },
         "sponsorCollaboratorsModule": {
           "leadSponsor": {
-            "name": "Jennifer Mitchell"
+            "name": "Sichuan Jishengtang Pharmaceutical Co., Ltd."
           }
         },
         "conditionsModule": {
           "conditions": [
-            "Anhedonia in Healthy Volunteers",
-            "Older Adults (50-90 Years)"
+            "Alzheimer's Dementia"
           ]
         },
         "designModule": {
           "studyType": "INTERVENTIONAL",
           "phases": [
-            "PHASE1"
+            "PHASE3"
           ],
           "enrollmentInfo": {
-            "count": 80
-          }
-        }
-      }
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07033494",
-          "briefTitle": "A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
-        },
-        "statusModule": {
-          "overallStatus": "RECRUITING",
-          "startDateStruct": {
-            "date": "2025-07-16"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2029-04-30"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "leadSponsor": {
-            "name": "Merck Sharp & Dohme LLC"
-          }
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Early Alzheimer's Disease"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "PHASE2"
-          ],
-          "enrollmentInfo": {
-            "count": 340
+            "count": 570
           }
         }
       }
     }
   ],
-  "nextPageToken": "ZVJ76sWHmqU2wRk2CJf6_LLvwtOWKd8od7KrgP4YnD6Wv_4w"
+  "nextPageToken": "ZVNj7o2Elu8o3lpyBYqp6rLumpOQJJxtbfOk3fUW"
 }
